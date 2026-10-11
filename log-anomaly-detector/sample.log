@@ -1,0 +1,2000 @@
+2026-07-24 17:59:42 ERROR Failed login attempt user=Sipho
+2026-07-24 17:59:42 ERROR Disk write failed
+2026-07-24 17:59:43 ERROR Disk write failed
+2026-07-24 17:59:44 ERROR Failed login attempt user=Tshepo
+2026-07-24 17:59:45 ERROR Failed login attempt user=Kagiso
+2026-07-24 17:59:45 ERROR Disk write failed
+2026-07-24 17:59:46 ERROR Null pointer exception in PaymentService
+2026-07-24 17:59:46 ERROR Null pointer exception in PaymentService
+2026-07-24 17:59:47 ERROR Disk write failed
+2026-07-24 17:59:48 ERROR Database connection timeout
+2026-07-24 17:59:49 ERROR Database connection timeout
+2026-07-24 17:59:50 ERROR Null pointer exception in PaymentService
+2026-07-24 17:59:51 ERROR 503 Service Unavailable
+2026-07-24 17:59:52 ERROR 503 Service Unavailable
+2026-07-24 17:59:52 ERROR 503 Service Unavailable
+2026-07-24 17:59:52 INFO Health check OK
+2026-07-24 17:59:52 INFO Cache refreshed
+2026-07-24 17:59:52 INFO User login success user=Tshepo
+2026-07-24 17:59:52 INFO User login success user=Tshepo
+2026-07-24 17:59:52 INFO Health check OK
+2026-07-24 17:59:52 INFO Request served in 297ms
+2026-07-24 17:59:53 INFO User login success user=Tshepo
+2026-07-24 17:59:54 INFO File uploaded successfully size=67KB
+2026-07-24 17:59:54 INFO User login success user=Naledi
+2026-07-24 17:59:55 INFO User login success user=Naledi
+2026-07-24 17:59:56 INFO User login success user=Lerato
+2026-07-24 17:59:57 INFO User login success user=Sipho
+2026-07-24 17:59:58 INFO User login success user=Naledi
+2026-07-24 17:59:59 INFO Health check OK
+2026-07-24 17:59:59 INFO User login success user=Tshepo
+2026-07-24 18:00:00 INFO User login success user=Tshepo
+2026-07-24 18:00:01 INFO Request served in 389ms
+2026-07-24 18:00:01 INFO Cache refreshed
+2026-07-24 18:00:01 INFO User login success user=Lerato
+2026-07-24 18:00:02 INFO Cache refreshed
+2026-07-24 18:00:03 INFO Request served in 116ms
+2026-07-24 18:00:03 INFO File uploaded successfully size=316KB
+2026-07-24 18:00:03 INFO Health check OK
+2026-07-24 18:00:04 INFO Health check OK
+2026-07-24 18:00:05 INFO Cache refreshed
+2026-07-24 18:00:06 INFO Request served in 200ms
+2026-07-24 18:00:07 INFO File uploaded successfully size=406KB
+2026-07-24 18:00:07 INFO Request served in 222ms
+2026-07-24 18:00:07 INFO Request served in 65ms
+2026-07-24 18:00:08 INFO Health check OK
+2026-07-24 18:00:09 INFO Health check OK
+2026-07-24 18:00:10 INFO User login success user=Sipho
+2026-07-24 18:00:10 INFO User login success user=Sipho
+2026-07-24 18:00:11 INFO Request served in 234ms
+2026-07-24 18:00:12 INFO Request served in 299ms
+2026-07-24 18:00:13 INFO User login success user=Lerato
+2026-07-24 18:00:14 INFO Cache refreshed
+2026-07-24 18:00:15 INFO File uploaded successfully size=43KB
+2026-07-24 18:00:15 INFO Health check OK
+2026-07-24 18:00:15 INFO Health check OK
+2026-07-24 18:00:16 INFO Cache refreshed
+2026-07-24 18:00:17 INFO User login success user=Kagiso
+2026-07-24 18:00:18 INFO Request served in 378ms
+2026-07-24 18:00:18 INFO Request served in 478ms
+2026-07-24 18:00:19 INFO Health check OK
+2026-07-24 18:00:19 INFO Health check OK
+2026-07-24 18:00:19 INFO Request served in 390ms
+2026-07-24 18:00:19 INFO Cache refreshed
+2026-07-24 18:00:20 INFO File uploaded successfully size=327KB
+2026-07-24 18:00:20 INFO Request served in 218ms
+2026-07-24 18:00:21 ERROR Null pointer exception in PaymentService
+2026-07-24 18:00:22 INFO File uploaded successfully size=93KB
+2026-07-24 18:00:23 INFO Cache refreshed
+2026-07-24 18:00:23 INFO Health check OK
+2026-07-24 18:00:24 INFO User login success user=Sipho
+2026-07-24 18:00:25 INFO Request served in 364ms
+2026-07-24 18:00:26 INFO File uploaded successfully size=462KB
+2026-07-24 18:00:27 INFO Cache refreshed
+2026-07-24 18:00:28 INFO Health check OK
+2026-07-24 18:00:29 INFO User login success user=Lerato
+2026-07-24 18:00:29 INFO User login success user=Lerato
+2026-07-24 18:00:29 INFO File uploaded successfully size=191KB
+2026-07-24 18:00:30 INFO Cache refreshed
+2026-07-24 18:00:30 ERROR Database connection timeout
+2026-07-24 18:00:31 INFO Health check OK
+2026-07-24 18:00:32 INFO File uploaded successfully size=311KB
+2026-07-24 18:00:32 INFO User login success user=Naledi
+2026-07-24 18:00:32 INFO File uploaded successfully size=123KB
+2026-07-24 18:00:33 INFO Health check OK
+2026-07-24 18:00:34 INFO Request served in 16ms
+2026-07-24 18:00:35 INFO File uploaded successfully size=245KB
+2026-07-24 18:00:35 ERROR Database connection timeout
+2026-07-24 18:00:35 INFO User login success user=Tshepo
+2026-07-24 18:00:35 INFO Request served in 389ms
+2026-07-24 18:00:35 INFO Cache refreshed
+2026-07-24 18:00:35 INFO Request served in 474ms
+2026-07-24 18:00:35 INFO Cache refreshed
+2026-07-24 18:00:35 INFO Health check OK
+2026-07-24 18:00:35 INFO Request served in 187ms
+2026-07-24 18:00:35 ERROR 503 Service Unavailable
+2026-07-24 18:00:36 INFO Health check OK
+2026-07-24 18:00:36 INFO User login success user=Lerato
+2026-07-24 18:00:36 INFO Request served in 172ms
+2026-07-24 18:00:36 INFO Health check OK
+2026-07-24 18:00:37 INFO User login success user=Sipho
+2026-07-24 18:00:38 INFO Cache refreshed
+2026-07-24 18:00:38 INFO File uploaded successfully size=188KB
+2026-07-24 18:00:38 INFO File uploaded successfully size=182KB
+2026-07-24 18:00:38 INFO Health check OK
+2026-07-24 18:00:39 INFO Cache refreshed
+2026-07-24 18:00:40 INFO Health check OK
+2026-07-24 18:00:41 INFO Cache refreshed
+2026-07-24 18:00:42 ERROR Null pointer exception in PaymentService
+2026-07-24 18:00:43 INFO Request served in 321ms
+2026-07-24 18:00:44 INFO File uploaded successfully size=206KB
+2026-07-24 18:00:44 INFO Request served in 326ms
+2026-07-24 18:00:44 INFO User login success user=Kagiso
+2026-07-24 18:00:45 INFO User login success user=Tshepo
+2026-07-24 18:00:46 INFO Cache refreshed
+2026-07-24 18:00:47 INFO Request served in 228ms
+2026-07-24 18:00:48 INFO File uploaded successfully size=185KB
+2026-07-24 18:00:48 INFO User login success user=Naledi
+2026-07-24 18:00:48 INFO User login success user=Tshepo
+2026-07-24 18:00:48 INFO User login success user=Naledi
+2026-07-24 18:00:49 INFO User login success user=Tshepo
+2026-07-24 18:00:49 INFO Request served in 299ms
+2026-07-24 18:00:50 INFO User login success user=Tshepo
+2026-07-24 18:00:51 INFO Request served in 247ms
+2026-07-24 18:00:51 INFO User login success user=Naledi
+2026-07-24 18:00:52 INFO File uploaded successfully size=236KB
+2026-07-24 18:00:52 ERROR Disk write failed
+2026-07-24 18:00:52 INFO Cache refreshed
+2026-07-24 18:00:52 INFO Health check OK
+2026-07-24 18:00:52 INFO Cache refreshed
+2026-07-24 18:00:52 INFO Request served in 104ms
+2026-07-24 18:00:53 INFO Request served in 316ms
+2026-07-24 18:00:53 INFO Cache refreshed
+2026-07-24 18:00:53 INFO User login success user=Kagiso
+2026-07-24 18:00:54 INFO Request served in 102ms
+2026-07-24 18:00:54 INFO Request served in 470ms
+2026-07-24 18:00:54 INFO File uploaded successfully size=485KB
+2026-07-24 18:00:54 INFO Cache refreshed
+2026-07-24 18:00:54 INFO Cache refreshed
+2026-07-24 18:00:54 INFO Request served in 60ms
+2026-07-24 18:00:54 INFO File uploaded successfully size=167KB
+2026-07-24 18:00:54 INFO Cache refreshed
+2026-07-24 18:00:54 INFO User login success user=Naledi
+2026-07-24 18:00:54 INFO File uploaded successfully size=325KB
+2026-07-24 18:00:54 INFO File uploaded successfully size=109KB
+2026-07-24 18:00:55 INFO Request served in 64ms
+2026-07-24 18:00:56 INFO Request served in 386ms
+2026-07-24 18:00:56 INFO Health check OK
+2026-07-24 18:00:56 INFO User login success user=Kagiso
+2026-07-24 18:00:56 INFO Health check OK
+2026-07-24 18:00:56 INFO Health check OK
+2026-07-24 18:00:56 INFO File uploaded successfully size=288KB
+2026-07-24 18:00:56 INFO Request served in 304ms
+2026-07-24 18:00:56 INFO File uploaded successfully size=337KB
+2026-07-24 18:00:56 INFO Request served in 494ms
+2026-07-24 18:00:57 INFO User login success user=Lerato
+2026-07-24 18:00:58 INFO File uploaded successfully size=465KB
+2026-07-24 18:00:59 INFO Request served in 260ms
+2026-07-24 18:01:00 INFO Cache refreshed
+2026-07-24 18:01:00 INFO Health check OK
+2026-07-24 18:01:00 INFO File uploaded successfully size=199KB
+2026-07-24 18:01:00 INFO File uploaded successfully size=261KB
+2026-07-24 18:01:01 INFO Cache refreshed
+2026-07-24 18:01:02 INFO File uploaded successfully size=39KB
+2026-07-24 18:01:03 INFO File uploaded successfully size=438KB
+2026-07-24 18:01:04 INFO Health check OK
+2026-07-24 18:01:05 INFO User login success user=Kagiso
+2026-07-24 18:01:05 INFO Cache refreshed
+2026-07-24 18:01:05 INFO Request served in 464ms
+2026-07-24 18:01:06 INFO File uploaded successfully size=244KB
+2026-07-24 18:01:07 INFO User login success user=Naledi
+2026-07-24 18:01:08 INFO Cache refreshed
+2026-07-24 18:01:09 INFO User login success user=Naledi
+2026-07-24 18:01:10 INFO Cache refreshed
+2026-07-24 18:01:11 INFO Cache refreshed
+2026-07-24 18:01:12 INFO User login success user=Kagiso
+2026-07-24 18:01:13 INFO Health check OK
+2026-07-24 18:01:14 INFO User login success user=Kagiso
+2026-07-24 18:01:15 INFO Request served in 397ms
+2026-07-24 18:01:16 INFO User login success user=Tshepo
+2026-07-24 18:01:16 INFO Cache refreshed
+2026-07-24 18:01:17 INFO Cache refreshed
+2026-07-24 18:01:17 INFO Cache refreshed
+2026-07-24 18:01:17 INFO Request served in 213ms
+2026-07-24 18:01:18 INFO Health check OK
+2026-07-24 18:01:19 INFO File uploaded successfully size=309KB
+2026-07-24 18:01:20 INFO Request served in 491ms
+2026-07-24 18:01:21 INFO Health check OK
+2026-07-24 18:01:22 INFO Cache refreshed
+2026-07-24 18:01:22 INFO Cache refreshed
+2026-07-24 18:01:23 INFO Request served in 90ms
+2026-07-24 18:01:24 INFO Request served in 366ms
+2026-07-24 18:01:24 INFO File uploaded successfully size=3KB
+2026-07-24 18:01:25 INFO Health check OK
+2026-07-24 18:01:25 INFO User login success user=Naledi
+2026-07-24 18:01:26 ERROR Disk write failed
+2026-07-24 18:01:27 INFO Health check OK
+2026-07-24 18:01:27 INFO Cache refreshed
+2026-07-24 18:01:27 INFO Health check OK
+2026-07-24 18:01:28 INFO Cache refreshed
+2026-07-24 18:01:28 INFO Health check OK
+2026-07-24 18:01:29 INFO Request served in 439ms
+2026-07-24 18:01:29 INFO Cache refreshed
+2026-07-24 18:01:30 INFO File uploaded successfully size=135KB
+2026-07-24 18:01:31 INFO Cache refreshed
+2026-07-24 18:01:31 INFO Health check OK
+2026-07-24 18:01:32 INFO Cache refreshed
+2026-07-24 18:01:33 INFO Cache refreshed
+2026-07-24 18:01:33 ERROR Database connection timeout
+2026-07-24 18:01:34 INFO Cache refreshed
+2026-07-24 18:01:35 INFO Request served in 366ms
+2026-07-24 18:01:35 INFO Cache refreshed
+2026-07-24 18:01:36 INFO Health check OK
+2026-07-24 18:01:36 INFO Health check OK
+2026-07-24 18:01:36 INFO File uploaded successfully size=96KB
+2026-07-24 18:01:36 INFO User login success user=Sipho
+2026-07-24 18:01:36 INFO Health check OK
+2026-07-24 18:01:37 INFO Request served in 64ms
+2026-07-24 18:01:38 INFO File uploaded successfully size=499KB
+2026-07-24 18:01:39 INFO User login success user=Tshepo
+2026-07-24 18:01:40 INFO Request served in 228ms
+2026-07-24 18:01:41 INFO Request served in 98ms
+2026-07-24 18:01:42 INFO User login success user=Kagiso
+2026-07-24 18:01:42 INFO Health check OK
+2026-07-24 18:01:42 INFO Request served in 379ms
+2026-07-24 18:01:43 INFO File uploaded successfully size=203KB
+2026-07-24 18:01:43 INFO Health check OK
+2026-07-24 18:01:44 INFO Health check OK
+2026-07-24 18:01:45 INFO Request served in 359ms
+2026-07-24 18:01:46 ERROR Database connection timeout
+2026-07-24 18:01:46 INFO Health check OK
+2026-07-24 18:01:47 INFO File uploaded successfully size=339KB
+2026-07-24 18:01:48 INFO Health check OK
+2026-07-24 18:01:48 INFO User login success user=Lerato
+2026-07-24 18:01:49 INFO Health check OK
+2026-07-24 18:01:50 INFO File uploaded successfully size=313KB
+2026-07-24 18:01:50 INFO User login success user=Naledi
+2026-07-24 18:01:51 INFO Request served in 346ms
+2026-07-24 18:01:51 INFO Cache refreshed
+2026-07-24 18:01:52 INFO File uploaded successfully size=488KB
+2026-07-24 18:01:53 INFO File uploaded successfully size=469KB
+2026-07-24 18:01:53 INFO Cache refreshed
+2026-07-24 18:01:53 INFO Cache refreshed
+2026-07-24 18:01:54 INFO File uploaded successfully size=246KB
+2026-07-24 18:01:54 INFO File uploaded successfully size=102KB
+2026-07-24 18:01:54 INFO Health check OK
+2026-07-24 18:01:54 INFO User login success user=Naledi
+2026-07-24 18:01:54 INFO Request served in 139ms
+2026-07-24 18:01:54 INFO User login success user=Naledi
+2026-07-24 18:01:55 INFO Health check OK
+2026-07-24 18:01:56 INFO Cache refreshed
+2026-07-24 18:01:56 INFO User login success user=Kagiso
+2026-07-24 18:01:57 INFO File uploaded successfully size=427KB
+2026-07-24 18:01:58 INFO Request served in 179ms
+2026-07-24 18:01:58 INFO Cache refreshed
+2026-07-24 18:01:59 INFO File uploaded successfully size=34KB
+2026-07-24 18:01:59 INFO Health check OK
+2026-07-24 18:01:59 INFO Request served in 55ms
+2026-07-24 18:01:59 INFO Health check OK
+2026-07-24 18:02:00 INFO Cache refreshed
+2026-07-24 18:02:00 INFO Cache refreshed
+2026-07-24 18:02:00 INFO Cache refreshed
+2026-07-24 18:02:01 INFO File uploaded successfully size=145KB
+2026-07-24 18:02:02 INFO Request served in 185ms
+2026-07-24 18:02:03 INFO Cache refreshed
+2026-07-24 18:02:04 INFO Cache refreshed
+2026-07-24 18:02:05 INFO Request served in 124ms
+2026-07-24 18:02:06 INFO Health check OK
+2026-07-24 18:02:07 ERROR Failed login attempt user=Lerato
+2026-07-24 18:02:07 INFO Request served in 378ms
+2026-07-24 18:02:07 INFO Request served in 151ms
+2026-07-24 18:02:08 INFO Cache refreshed
+2026-07-24 18:02:09 INFO Cache refreshed
+2026-07-24 18:02:09 INFO Request served in 262ms
+2026-07-24 18:02:10 INFO Cache refreshed
+2026-07-24 18:02:10 INFO File uploaded successfully size=136KB
+2026-07-24 18:02:10 INFO Health check OK
+2026-07-24 18:02:10 INFO Cache refreshed
+2026-07-24 18:02:11 INFO Health check OK
+2026-07-24 18:02:11 INFO Health check OK
+2026-07-24 18:02:12 INFO Health check OK
+2026-07-24 18:02:13 INFO Cache refreshed
+2026-07-24 18:02:14 INFO Request served in 262ms
+2026-07-24 18:02:14 INFO User login success user=Tshepo
+2026-07-24 18:02:14 INFO User login success user=Sipho
+2026-07-24 18:02:15 INFO File uploaded successfully size=430KB
+2026-07-24 18:02:16 INFO Cache refreshed
+2026-07-24 18:02:16 INFO Request served in 209ms
+2026-07-24 18:02:17 INFO File uploaded successfully size=159KB
+2026-07-24 18:02:17 INFO User login success user=Sipho
+2026-07-24 18:02:17 INFO Request served in 329ms
+2026-07-24 18:02:17 INFO Cache refreshed
+2026-07-24 18:02:17 INFO Cache refreshed
+2026-07-24 18:02:17 INFO Health check OK
+2026-07-24 18:02:17 INFO File uploaded successfully size=113KB
+2026-07-24 18:02:17 INFO User login success user=Lerato
+2026-07-24 18:02:17 INFO Cache refreshed
+2026-07-24 18:02:18 ERROR Disk write failed
+2026-07-24 18:02:18 INFO Cache refreshed
+2026-07-24 18:02:19 INFO File uploaded successfully size=369KB
+2026-07-24 18:02:19 INFO Health check OK
+2026-07-24 18:02:20 ERROR Disk write failed
+2026-07-24 18:02:21 ERROR 503 Service Unavailable
+2026-07-24 18:02:22 ERROR Disk write failed
+2026-07-24 18:02:22 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:23 ERROR Database connection timeout
+2026-07-24 18:02:23 ERROR Disk write failed
+2026-07-24 18:02:23 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:23 ERROR Failed login attempt user=Naledi
+2026-07-24 18:02:24 ERROR Database connection timeout
+2026-07-24 18:02:25 ERROR Database connection timeout
+2026-07-24 18:02:25 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:25 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:25 ERROR 503 Service Unavailable
+2026-07-24 18:02:26 ERROR Disk write failed
+2026-07-24 18:02:27 ERROR Database connection timeout
+2026-07-24 18:02:27 INFO Request served in 253ms
+2026-07-24 18:02:28 INFO User login success user=Tshepo
+2026-07-24 18:02:29 INFO File uploaded successfully size=219KB
+2026-07-24 18:02:29 INFO File uploaded successfully size=442KB
+2026-07-24 18:02:30 INFO Health check OK
+2026-07-24 18:02:31 INFO Request served in 447ms
+2026-07-24 18:02:31 INFO Cache refreshed
+2026-07-24 18:02:31 INFO Health check OK
+2026-07-24 18:02:32 INFO Cache refreshed
+2026-07-24 18:02:32 INFO User login success user=Sipho
+2026-07-24 18:02:33 INFO Cache refreshed
+2026-07-24 18:02:34 INFO Cache refreshed
+2026-07-24 18:02:34 INFO Request served in 165ms
+2026-07-24 18:02:34 INFO Cache refreshed
+2026-07-24 18:02:34 INFO Cache refreshed
+2026-07-24 18:02:35 INFO Health check OK
+2026-07-24 18:02:36 INFO File uploaded successfully size=483KB
+2026-07-24 18:02:36 INFO User login success user=Kagiso
+2026-07-24 18:02:37 INFO Health check OK
+2026-07-24 18:02:38 INFO File uploaded successfully size=2KB
+2026-07-24 18:02:38 INFO Cache refreshed
+2026-07-24 18:02:38 INFO File uploaded successfully size=53KB
+2026-07-24 18:02:39 INFO User login success user=Naledi
+2026-07-24 18:02:40 INFO Cache refreshed
+2026-07-24 18:02:41 INFO Request served in 299ms
+2026-07-24 18:02:42 INFO User login success user=Lerato
+2026-07-24 18:02:43 INFO File uploaded successfully size=382KB
+2026-07-24 18:02:43 INFO Cache refreshed
+2026-07-24 18:02:44 INFO File uploaded successfully size=267KB
+2026-07-24 18:02:44 INFO Cache refreshed
+2026-07-24 18:02:44 INFO Health check OK
+2026-07-24 18:02:44 INFO Health check OK
+2026-07-24 18:02:44 ERROR Disk write failed
+2026-07-24 18:02:45 INFO User login success user=Tshepo
+2026-07-24 18:02:46 INFO Request served in 60ms
+2026-07-24 18:02:47 INFO File uploaded successfully size=318KB
+2026-07-24 18:02:47 INFO User login success user=Sipho
+2026-07-24 18:02:48 INFO Cache refreshed
+2026-07-24 18:02:48 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:48 INFO Health check OK
+2026-07-24 18:02:49 INFO User login success user=Tshepo
+2026-07-24 18:02:49 INFO User login success user=Tshepo
+2026-07-24 18:02:50 ERROR Disk write failed
+2026-07-24 18:02:51 INFO File uploaded successfully size=99KB
+2026-07-24 18:02:51 ERROR Null pointer exception in PaymentService
+2026-07-24 18:02:52 INFO Health check OK
+2026-07-24 18:02:53 INFO User login success user=Lerato
+2026-07-24 18:02:54 INFO Health check OK
+2026-07-24 18:02:55 INFO Request served in 328ms
+2026-07-24 18:02:55 ERROR Failed login attempt user=Sipho
+2026-07-24 18:02:56 INFO Request served in 315ms
+2026-07-24 18:02:56 INFO User login success user=Sipho
+2026-07-24 18:02:57 INFO Health check OK
+2026-07-24 18:02:57 INFO Health check OK
+2026-07-24 18:02:58 INFO Request served in 109ms
+2026-07-24 18:02:58 INFO Health check OK
+2026-07-24 18:02:59 INFO User login success user=Naledi
+2026-07-24 18:03:00 INFO Request served in 147ms
+2026-07-24 18:03:01 INFO User login success user=Kagiso
+2026-07-24 18:03:01 INFO Health check OK
+2026-07-24 18:03:01 INFO Health check OK
+2026-07-24 18:03:02 INFO Cache refreshed
+2026-07-24 18:03:03 INFO File uploaded successfully size=160KB
+2026-07-24 18:03:04 INFO Request served in 333ms
+2026-07-24 18:03:05 INFO User login success user=Tshepo
+2026-07-24 18:03:06 INFO Health check OK
+2026-07-24 18:03:06 INFO User login success user=Lerato
+2026-07-24 18:03:07 INFO File uploaded successfully size=195KB
+2026-07-24 18:03:07 INFO File uploaded successfully size=209KB
+2026-07-24 18:03:07 INFO File uploaded successfully size=313KB
+2026-07-24 18:03:07 INFO Cache refreshed
+2026-07-24 18:03:07 INFO Health check OK
+2026-07-24 18:03:07 INFO Request served in 137ms
+2026-07-24 18:03:07 INFO Health check OK
+2026-07-24 18:03:07 INFO User login success user=Naledi
+2026-07-24 18:03:07 INFO Health check OK
+2026-07-24 18:03:08 INFO Health check OK
+2026-07-24 18:03:09 INFO Request served in 177ms
+2026-07-24 18:03:10 INFO Request served in 145ms
+2026-07-24 18:03:10 INFO Cache refreshed
+2026-07-24 18:03:10 INFO User login success user=Tshepo
+2026-07-24 18:03:10 INFO User login success user=Naledi
+2026-07-24 18:03:10 INFO Health check OK
+2026-07-24 18:03:10 INFO Request served in 364ms
+2026-07-24 18:03:10 INFO Cache refreshed
+2026-07-24 18:03:10 INFO User login success user=Naledi
+2026-07-24 18:03:11 INFO File uploaded successfully size=179KB
+2026-07-24 18:03:11 INFO Cache refreshed
+2026-07-24 18:03:11 INFO User login success user=Tshepo
+2026-07-24 18:03:11 INFO User login success user=Naledi
+2026-07-24 18:03:12 INFO Health check OK
+2026-07-24 18:03:12 INFO Health check OK
+2026-07-24 18:03:13 INFO Health check OK
+2026-07-24 18:03:13 INFO Health check OK
+2026-07-24 18:03:13 INFO Cache refreshed
+2026-07-24 18:03:14 INFO Request served in 148ms
+2026-07-24 18:03:15 INFO Cache refreshed
+2026-07-24 18:03:15 INFO Request served in 340ms
+2026-07-24 18:03:16 INFO Health check OK
+2026-07-24 18:03:17 INFO User login success user=Lerato
+2026-07-24 18:03:18 INFO Cache refreshed
+2026-07-24 18:03:19 INFO Cache refreshed
+2026-07-24 18:03:19 INFO Cache refreshed
+2026-07-24 18:03:19 INFO Health check OK
+2026-07-24 18:03:19 INFO User login success user=Lerato
+2026-07-24 18:03:19 INFO User login success user=Naledi
+2026-07-24 18:03:19 INFO User login success user=Lerato
+2026-07-24 18:03:19 ERROR Null pointer exception in PaymentService
+2026-07-24 18:03:20 INFO Health check OK
+2026-07-24 18:03:20 INFO Cache refreshed
+2026-07-24 18:03:21 INFO Cache refreshed
+2026-07-24 18:03:21 INFO User login success user=Lerato
+2026-07-24 18:03:22 INFO Cache refreshed
+2026-07-24 18:03:23 INFO User login success user=Kagiso
+2026-07-24 18:03:24 INFO Cache refreshed
+2026-07-24 18:03:25 INFO Request served in 11ms
+2026-07-24 18:03:25 INFO File uploaded successfully size=426KB
+2026-07-24 18:03:25 INFO Request served in 210ms
+2026-07-24 18:03:25 INFO User login success user=Lerato
+2026-07-24 18:03:25 INFO Health check OK
+2026-07-24 18:03:26 INFO Cache refreshed
+2026-07-24 18:03:27 INFO File uploaded successfully size=374KB
+2026-07-24 18:03:28 INFO File uploaded successfully size=293KB
+2026-07-24 18:03:28 INFO Health check OK
+2026-07-24 18:03:28 INFO Cache refreshed
+2026-07-24 18:03:29 INFO File uploaded successfully size=333KB
+2026-07-24 18:03:30 INFO Request served in 140ms
+2026-07-24 18:03:30 INFO Cache refreshed
+2026-07-24 18:03:31 ERROR 503 Service Unavailable
+2026-07-24 18:03:32 INFO File uploaded successfully size=50KB
+2026-07-24 18:03:33 INFO Cache refreshed
+2026-07-24 18:03:34 INFO Cache refreshed
+2026-07-24 18:03:35 INFO Cache refreshed
+2026-07-24 18:03:36 INFO Health check OK
+2026-07-24 18:03:37 INFO Health check OK
+2026-07-24 18:03:38 INFO Request served in 169ms
+2026-07-24 18:03:38 INFO Cache refreshed
+2026-07-24 18:03:39 INFO File uploaded successfully size=484KB
+2026-07-24 18:03:40 INFO Request served in 332ms
+2026-07-24 18:03:41 INFO Health check OK
+2026-07-24 18:03:42 INFO Cache refreshed
+2026-07-24 18:03:43 INFO File uploaded successfully size=364KB
+2026-07-24 18:03:44 INFO Cache refreshed
+2026-07-24 18:03:45 INFO Health check OK
+2026-07-24 18:03:45 INFO Request served in 415ms
+2026-07-24 18:03:46 INFO Cache refreshed
+2026-07-24 18:03:47 INFO Health check OK
+2026-07-24 18:03:47 INFO Health check OK
+2026-07-24 18:03:48 INFO User login success user=Tshepo
+2026-07-24 18:03:49 INFO Request served in 200ms
+2026-07-24 18:03:49 INFO Request served in 330ms
+2026-07-24 18:03:49 INFO Health check OK
+2026-07-24 18:03:49 INFO User login success user=Tshepo
+2026-07-24 18:03:49 INFO Request served in 456ms
+2026-07-24 18:03:50 INFO File uploaded successfully size=376KB
+2026-07-24 18:03:51 INFO Request served in 104ms
+2026-07-24 18:03:52 INFO Request served in 374ms
+2026-07-24 18:03:52 INFO Request served in 332ms
+2026-07-24 18:03:53 INFO Cache refreshed
+2026-07-24 18:03:53 INFO File uploaded successfully size=274KB
+2026-07-24 18:03:53 INFO User login success user=Kagiso
+2026-07-24 18:03:53 INFO User login success user=Naledi
+2026-07-24 18:03:53 INFO Request served in 172ms
+2026-07-24 18:03:53 INFO Cache refreshed
+2026-07-24 18:03:53 INFO Request served in 92ms
+2026-07-24 18:03:54 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:03:54 INFO Cache refreshed
+2026-07-24 18:03:55 INFO File uploaded successfully size=329KB
+2026-07-24 18:03:55 INFO Health check OK
+2026-07-24 18:03:56 INFO File uploaded successfully size=49KB
+2026-07-24 18:03:57 INFO Cache refreshed
+2026-07-24 18:03:58 INFO Health check OK
+2026-07-24 18:03:59 ERROR Null pointer exception in PaymentService
+2026-07-24 18:04:00 INFO Request served in 116ms
+2026-07-24 18:04:01 INFO User login success user=Kagiso
+2026-07-24 18:04:02 INFO Request served in 263ms
+2026-07-24 18:04:02 INFO Cache refreshed
+2026-07-24 18:04:03 INFO Health check OK
+2026-07-24 18:04:04 INFO User login success user=Sipho
+2026-07-24 18:04:05 INFO File uploaded successfully size=153KB
+2026-07-24 18:04:05 INFO Request served in 63ms
+2026-07-24 18:04:06 INFO Cache refreshed
+2026-07-24 18:04:07 INFO Health check OK
+2026-07-24 18:04:08 INFO Health check OK
+2026-07-24 18:04:08 INFO User login success user=Naledi
+2026-07-24 18:04:09 INFO File uploaded successfully size=357KB
+2026-07-24 18:04:10 INFO Request served in 406ms
+2026-07-24 18:04:11 INFO Cache refreshed
+2026-07-24 18:04:11 INFO File uploaded successfully size=474KB
+2026-07-24 18:04:12 INFO User login success user=Lerato
+2026-07-24 18:04:13 INFO Cache refreshed
+2026-07-24 18:04:14 INFO Request served in 324ms
+2026-07-24 18:04:14 INFO Cache refreshed
+2026-07-24 18:04:15 INFO File uploaded successfully size=475KB
+2026-07-24 18:04:15 INFO User login success user=Tshepo
+2026-07-24 18:04:15 INFO Health check OK
+2026-07-24 18:04:15 ERROR Database connection timeout
+2026-07-24 18:04:16 INFO Request served in 144ms
+2026-07-24 18:04:17 INFO Cache refreshed
+2026-07-24 18:04:18 INFO User login success user=Tshepo
+2026-07-24 18:04:19 INFO Request served in 383ms
+2026-07-24 18:04:19 INFO Request served in 432ms
+2026-07-24 18:04:19 INFO Request served in 398ms
+2026-07-24 18:04:20 INFO Cache refreshed
+2026-07-24 18:04:20 INFO File uploaded successfully size=112KB
+2026-07-24 18:04:21 INFO Cache refreshed
+2026-07-24 18:04:22 INFO User login success user=Naledi
+2026-07-24 18:04:23 INFO Health check OK
+2026-07-24 18:04:23 INFO Health check OK
+2026-07-24 18:04:23 INFO Cache refreshed
+2026-07-24 18:04:23 INFO File uploaded successfully size=20KB
+2026-07-24 18:04:23 INFO Health check OK
+2026-07-24 18:04:24 INFO Request served in 411ms
+2026-07-24 18:04:24 INFO Cache refreshed
+2026-07-24 18:04:25 INFO Cache refreshed
+2026-07-24 18:04:26 INFO Health check OK
+2026-07-24 18:04:27 INFO File uploaded successfully size=86KB
+2026-07-24 18:04:27 INFO Cache refreshed
+2026-07-24 18:04:27 INFO Health check OK
+2026-07-24 18:04:27 INFO User login success user=Sipho
+2026-07-24 18:04:27 INFO Cache refreshed
+2026-07-24 18:04:27 INFO Cache refreshed
+2026-07-24 18:04:28 INFO Request served in 153ms
+2026-07-24 18:04:28 INFO Health check OK
+2026-07-24 18:04:29 INFO Request served in 189ms
+2026-07-24 18:04:30 INFO Cache refreshed
+2026-07-24 18:04:31 INFO Request served in 445ms
+2026-07-24 18:04:32 INFO Request served in 360ms
+2026-07-24 18:04:32 INFO Cache refreshed
+2026-07-24 18:04:32 INFO File uploaded successfully size=227KB
+2026-07-24 18:04:32 INFO User login success user=Sipho
+2026-07-24 18:04:33 INFO Cache refreshed
+2026-07-24 18:04:34 INFO User login success user=Kagiso
+2026-07-24 18:04:34 INFO Cache refreshed
+2026-07-24 18:04:35 INFO Cache refreshed
+2026-07-24 18:04:36 INFO Request served in 108ms
+2026-07-24 18:04:37 INFO File uploaded successfully size=20KB
+2026-07-24 18:04:37 INFO Request served in 82ms
+2026-07-24 18:04:37 INFO File uploaded successfully size=330KB
+2026-07-24 18:04:38 INFO User login success user=Naledi
+2026-07-24 18:04:39 INFO Health check OK
+2026-07-24 18:04:39 INFO Request served in 463ms
+2026-07-24 18:04:40 INFO Cache refreshed
+2026-07-24 18:04:40 INFO Cache refreshed
+2026-07-24 18:04:41 INFO File uploaded successfully size=97KB
+2026-07-24 18:04:42 INFO Health check OK
+2026-07-24 18:04:42 INFO User login success user=Lerato
+2026-07-24 18:04:43 INFO File uploaded successfully size=149KB
+2026-07-24 18:04:44 INFO Request served in 264ms
+2026-07-24 18:04:44 INFO Health check OK
+2026-07-24 18:04:44 INFO Cache refreshed
+2026-07-24 18:04:44 INFO Health check OK
+2026-07-24 18:04:45 INFO Cache refreshed
+2026-07-24 18:04:46 INFO Health check OK
+2026-07-24 18:04:47 INFO User login success user=Kagiso
+2026-07-24 18:04:48 INFO File uploaded successfully size=72KB
+2026-07-24 18:04:49 INFO File uploaded successfully size=160KB
+2026-07-24 18:04:49 INFO File uploaded successfully size=223KB
+2026-07-24 18:04:49 INFO File uploaded successfully size=380KB
+2026-07-24 18:04:50 INFO File uploaded successfully size=9KB
+2026-07-24 18:04:51 INFO File uploaded successfully size=341KB
+2026-07-24 18:04:51 INFO Cache refreshed
+2026-07-24 18:04:52 INFO Health check OK
+2026-07-24 18:04:52 INFO Request served in 429ms
+2026-07-24 18:04:53 INFO User login success user=Naledi
+2026-07-24 18:04:54 INFO Request served in 161ms
+2026-07-24 18:04:55 INFO Health check OK
+2026-07-24 18:04:55 INFO Cache refreshed
+2026-07-24 18:04:56 INFO Cache refreshed
+2026-07-24 18:04:56 INFO User login success user=Naledi
+2026-07-24 18:04:56 INFO File uploaded successfully size=288KB
+2026-07-24 18:04:57 INFO Cache refreshed
+2026-07-24 18:04:57 INFO Health check OK
+2026-07-24 18:04:57 INFO File uploaded successfully size=332KB
+2026-07-24 18:04:57 INFO Request served in 334ms
+2026-07-24 18:04:57 INFO User login success user=Tshepo
+2026-07-24 18:04:58 INFO Request served in 287ms
+2026-07-24 18:04:58 INFO File uploaded successfully size=201KB
+2026-07-24 18:04:59 INFO User login success user=Naledi
+2026-07-24 18:05:00 INFO Request served in 282ms
+2026-07-24 18:05:01 INFO User login success user=Lerato
+2026-07-24 18:05:01 INFO Health check OK
+2026-07-24 18:05:01 INFO Health check OK
+2026-07-24 18:05:02 INFO User login success user=Sipho
+2026-07-24 18:05:02 INFO Request served in 322ms
+2026-07-24 18:05:03 ERROR 503 Service Unavailable
+2026-07-24 18:05:03 ERROR Failed login attempt user=Sipho
+2026-07-24 18:05:03 ERROR Database connection timeout
+2026-07-24 18:05:04 ERROR Database connection timeout
+2026-07-24 18:05:04 ERROR Database connection timeout
+2026-07-24 18:05:05 ERROR Disk write failed
+2026-07-24 18:05:05 ERROR 503 Service Unavailable
+2026-07-24 18:05:06 ERROR Null pointer exception in PaymentService
+2026-07-24 18:05:06 ERROR 503 Service Unavailable
+2026-07-24 18:05:06 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:05:06 ERROR Disk write failed
+2026-07-24 18:05:06 ERROR Disk write failed
+2026-07-24 18:05:07 ERROR Null pointer exception in PaymentService
+2026-07-24 18:05:08 ERROR 503 Service Unavailable
+2026-07-24 18:05:08 ERROR Null pointer exception in PaymentService
+2026-07-24 18:05:08 INFO Health check OK
+2026-07-24 18:05:08 INFO Health check OK
+2026-07-24 18:05:09 INFO Request served in 263ms
+2026-07-24 18:05:09 INFO File uploaded successfully size=399KB
+2026-07-24 18:05:09 INFO Health check OK
+2026-07-24 18:05:09 INFO User login success user=Lerato
+2026-07-24 18:05:10 INFO Cache refreshed
+2026-07-24 18:05:10 INFO Cache refreshed
+2026-07-24 18:05:11 INFO File uploaded successfully size=237KB
+2026-07-24 18:05:12 INFO File uploaded successfully size=230KB
+2026-07-24 18:05:13 INFO Request served in 227ms
+2026-07-24 18:05:13 INFO Health check OK
+2026-07-24 18:05:13 INFO File uploaded successfully size=190KB
+2026-07-24 18:05:13 INFO File uploaded successfully size=85KB
+2026-07-24 18:05:14 INFO Health check OK
+2026-07-24 18:05:14 INFO Health check OK
+2026-07-24 18:05:15 INFO User login success user=Tshepo
+2026-07-24 18:05:15 INFO File uploaded successfully size=353KB
+2026-07-24 18:05:15 INFO Request served in 263ms
+2026-07-24 18:05:15 ERROR Failed login attempt user=Lerato
+2026-07-24 18:05:16 INFO Health check OK
+2026-07-24 18:05:16 INFO Cache refreshed
+2026-07-24 18:05:16 INFO File uploaded successfully size=38KB
+2026-07-24 18:05:16 INFO Cache refreshed
+2026-07-24 18:05:17 INFO File uploaded successfully size=310KB
+2026-07-24 18:05:18 INFO User login success user=Kagiso
+2026-07-24 18:05:18 INFO User login success user=Naledi
+2026-07-24 18:05:19 INFO Request served in 331ms
+2026-07-24 18:05:20 INFO File uploaded successfully size=84KB
+2026-07-24 18:05:20 INFO User login success user=Kagiso
+2026-07-24 18:05:20 INFO User login success user=Naledi
+2026-07-24 18:05:20 INFO Health check OK
+2026-07-24 18:05:21 INFO Health check OK
+2026-07-24 18:05:21 INFO File uploaded successfully size=218KB
+2026-07-24 18:05:22 INFO File uploaded successfully size=463KB
+2026-07-24 18:05:23 INFO Request served in 358ms
+2026-07-24 18:05:24 INFO File uploaded successfully size=142KB
+2026-07-24 18:05:25 INFO Cache refreshed
+2026-07-24 18:05:25 INFO Request served in 434ms
+2026-07-24 18:05:25 INFO File uploaded successfully size=124KB
+2026-07-24 18:05:25 INFO Request served in 213ms
+2026-07-24 18:05:26 INFO User login success user=Tshepo
+2026-07-24 18:05:26 INFO User login success user=Naledi
+2026-07-24 18:05:27 INFO User login success user=Kagiso
+2026-07-24 18:05:28 INFO Cache refreshed
+2026-07-24 18:05:29 INFO File uploaded successfully size=70KB
+2026-07-24 18:05:29 ERROR Disk write failed
+2026-07-24 18:05:30 INFO User login success user=Tshepo
+2026-07-24 18:05:31 INFO Health check OK
+2026-07-24 18:05:32 INFO Request served in 346ms
+2026-07-24 18:05:33 INFO Cache refreshed
+2026-07-24 18:05:34 INFO Cache refreshed
+2026-07-24 18:05:34 INFO Request served in 230ms
+2026-07-24 18:05:35 INFO Cache refreshed
+2026-07-24 18:05:36 ERROR 503 Service Unavailable
+2026-07-24 18:05:36 INFO Cache refreshed
+2026-07-24 18:05:37 INFO Request served in 145ms
+2026-07-24 18:05:38 INFO Cache refreshed
+2026-07-24 18:05:39 INFO User login success user=Tshepo
+2026-07-24 18:05:40 INFO File uploaded successfully size=239KB
+2026-07-24 18:05:40 INFO Health check OK
+2026-07-24 18:05:40 INFO Health check OK
+2026-07-24 18:05:41 INFO Cache refreshed
+2026-07-24 18:05:42 INFO Request served in 464ms
+2026-07-24 18:05:43 INFO File uploaded successfully size=359KB
+2026-07-24 18:05:44 INFO Health check OK
+2026-07-24 18:05:45 INFO Cache refreshed
+2026-07-24 18:05:46 INFO File uploaded successfully size=45KB
+2026-07-24 18:05:47 INFO User login success user=Lerato
+2026-07-24 18:05:48 INFO Cache refreshed
+2026-07-24 18:05:49 INFO File uploaded successfully size=154KB
+2026-07-24 18:05:49 INFO User login success user=Lerato
+2026-07-24 18:05:50 INFO Health check OK
+2026-07-24 18:05:51 INFO Health check OK
+2026-07-24 18:05:52 INFO Health check OK
+2026-07-24 18:05:53 INFO Health check OK
+2026-07-24 18:05:54 INFO Request served in 484ms
+2026-07-24 18:05:54 INFO User login success user=Lerato
+2026-07-24 18:05:55 INFO Health check OK
+2026-07-24 18:05:55 ERROR Null pointer exception in PaymentService
+2026-07-24 18:05:55 ERROR Null pointer exception in PaymentService
+2026-07-24 18:05:56 INFO Health check OK
+2026-07-24 18:05:56 INFO Cache refreshed
+2026-07-24 18:05:56 INFO Request served in 306ms
+2026-07-24 18:05:56 INFO Request served in 270ms
+2026-07-24 18:05:56 INFO File uploaded successfully size=460KB
+2026-07-24 18:05:56 INFO Request served in 168ms
+2026-07-24 18:05:56 INFO Cache refreshed
+2026-07-24 18:05:56 INFO User login success user=Sipho
+2026-07-24 18:05:56 INFO Cache refreshed
+2026-07-24 18:05:56 ERROR Disk write failed
+2026-07-24 18:05:57 INFO Cache refreshed
+2026-07-24 18:05:57 INFO Health check OK
+2026-07-24 18:05:58 INFO File uploaded successfully size=480KB
+2026-07-24 18:05:58 INFO Request served in 438ms
+2026-07-24 18:05:58 INFO User login success user=Sipho
+2026-07-24 18:05:58 INFO Cache refreshed
+2026-07-24 18:05:58 INFO Cache refreshed
+2026-07-24 18:05:58 INFO Cache refreshed
+2026-07-24 18:05:58 INFO File uploaded successfully size=328KB
+2026-07-24 18:05:58 INFO Health check OK
+2026-07-24 18:05:58 INFO File uploaded successfully size=133KB
+2026-07-24 18:05:59 INFO Cache refreshed
+2026-07-24 18:06:00 INFO Health check OK
+2026-07-24 18:06:01 INFO Request served in 43ms
+2026-07-24 18:06:02 INFO Health check OK
+2026-07-24 18:06:03 INFO Request served in 445ms
+2026-07-24 18:06:04 INFO User login success user=Lerato
+2026-07-24 18:06:05 INFO Cache refreshed
+2026-07-24 18:06:05 INFO Health check OK
+2026-07-24 18:06:06 INFO File uploaded successfully size=42KB
+2026-07-24 18:06:06 INFO File uploaded successfully size=138KB
+2026-07-24 18:06:07 INFO Health check OK
+2026-07-24 18:06:07 INFO Request served in 85ms
+2026-07-24 18:06:07 INFO File uploaded successfully size=475KB
+2026-07-24 18:06:08 INFO Health check OK
+2026-07-24 18:06:09 INFO Cache refreshed
+2026-07-24 18:06:10 INFO Cache refreshed
+2026-07-24 18:06:10 ERROR 503 Service Unavailable
+2026-07-24 18:06:11 INFO Request served in 310ms
+2026-07-24 18:06:12 INFO User login success user=Tshepo
+2026-07-24 18:06:12 INFO User login success user=Tshepo
+2026-07-24 18:06:13 INFO User login success user=Sipho
+2026-07-24 18:06:14 ERROR Database connection timeout
+2026-07-24 18:06:14 INFO Health check OK
+2026-07-24 18:06:15 INFO File uploaded successfully size=354KB
+2026-07-24 18:06:16 INFO File uploaded successfully size=437KB
+2026-07-24 18:06:16 INFO User login success user=Naledi
+2026-07-24 18:06:17 INFO Health check OK
+2026-07-24 18:06:18 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:06:19 INFO Cache refreshed
+2026-07-24 18:06:19 INFO Request served in 34ms
+2026-07-24 18:06:19 INFO User login success user=Tshepo
+2026-07-24 18:06:20 INFO Health check OK
+2026-07-24 18:06:20 INFO Health check OK
+2026-07-24 18:06:21 INFO Cache refreshed
+2026-07-24 18:06:22 INFO Health check OK
+2026-07-24 18:06:23 INFO File uploaded successfully size=427KB
+2026-07-24 18:06:24 INFO Cache refreshed
+2026-07-24 18:06:24 INFO Cache refreshed
+2026-07-24 18:06:25 INFO Request served in 136ms
+2026-07-24 18:06:26 INFO File uploaded successfully size=313KB
+2026-07-24 18:06:27 INFO File uploaded successfully size=188KB
+2026-07-24 18:06:28 INFO File uploaded successfully size=226KB
+2026-07-24 18:06:29 INFO Cache refreshed
+2026-07-24 18:06:29 INFO Health check OK
+2026-07-24 18:06:30 INFO Request served in 153ms
+2026-07-24 18:06:31 INFO Health check OK
+2026-07-24 18:06:32 INFO Request served in 132ms
+2026-07-24 18:06:33 INFO Health check OK
+2026-07-24 18:06:34 INFO User login success user=Lerato
+2026-07-24 18:06:35 INFO Health check OK
+2026-07-24 18:06:36 INFO User login success user=Tshepo
+2026-07-24 18:06:37 INFO User login success user=Sipho
+2026-07-24 18:06:37 INFO Cache refreshed
+2026-07-24 18:06:37 INFO Request served in 88ms
+2026-07-24 18:06:37 INFO Cache refreshed
+2026-07-24 18:06:37 INFO User login success user=Lerato
+2026-07-24 18:06:38 INFO Cache refreshed
+2026-07-24 18:06:38 INFO User login success user=Lerato
+2026-07-24 18:06:39 ERROR Disk write failed
+2026-07-24 18:06:39 INFO Health check OK
+2026-07-24 18:06:40 INFO User login success user=Sipho
+2026-07-24 18:06:41 INFO File uploaded successfully size=329KB
+2026-07-24 18:06:41 INFO Health check OK
+2026-07-24 18:06:42 INFO Request served in 80ms
+2026-07-24 18:06:43 INFO Cache refreshed
+2026-07-24 18:06:43 INFO File uploaded successfully size=495KB
+2026-07-24 18:06:44 INFO Request served in 429ms
+2026-07-24 18:06:45 INFO Health check OK
+2026-07-24 18:06:45 INFO Request served in 495ms
+2026-07-24 18:06:45 INFO Request served in 187ms
+2026-07-24 18:06:45 INFO Request served in 197ms
+2026-07-24 18:06:45 INFO File uploaded successfully size=21KB
+2026-07-24 18:06:45 INFO File uploaded successfully size=481KB
+2026-07-24 18:06:45 INFO File uploaded successfully size=247KB
+2026-07-24 18:06:46 INFO Cache refreshed
+2026-07-24 18:06:47 INFO Request served in 98ms
+2026-07-24 18:06:48 INFO Cache refreshed
+2026-07-24 18:06:49 INFO Cache refreshed
+2026-07-24 18:06:49 INFO Cache refreshed
+2026-07-24 18:06:50 INFO File uploaded successfully size=480KB
+2026-07-24 18:06:50 INFO User login success user=Naledi
+2026-07-24 18:06:50 ERROR Disk write failed
+2026-07-24 18:06:51 INFO Health check OK
+2026-07-24 18:06:51 INFO Health check OK
+2026-07-24 18:06:52 INFO Health check OK
+2026-07-24 18:06:53 ERROR 503 Service Unavailable
+2026-07-24 18:06:54 INFO Health check OK
+2026-07-24 18:06:54 INFO Cache refreshed
+2026-07-24 18:06:55 INFO Health check OK
+2026-07-24 18:06:55 INFO Cache refreshed
+2026-07-24 18:06:55 INFO File uploaded successfully size=328KB
+2026-07-24 18:06:55 INFO Cache refreshed
+2026-07-24 18:06:55 INFO Health check OK
+2026-07-24 18:06:56 INFO Cache refreshed
+2026-07-24 18:06:57 INFO File uploaded successfully size=353KB
+2026-07-24 18:06:57 INFO Health check OK
+2026-07-24 18:06:57 INFO User login success user=Kagiso
+2026-07-24 18:06:58 INFO User login success user=Lerato
+2026-07-24 18:06:59 INFO Cache refreshed
+2026-07-24 18:06:59 INFO Health check OK
+2026-07-24 18:06:59 ERROR Database connection timeout
+2026-07-24 18:06:59 INFO Health check OK
+2026-07-24 18:07:00 INFO Request served in 161ms
+2026-07-24 18:07:01 INFO User login success user=Tshepo
+2026-07-24 18:07:01 INFO Health check OK
+2026-07-24 18:07:02 INFO File uploaded successfully size=22KB
+2026-07-24 18:07:03 INFO User login success user=Sipho
+2026-07-24 18:07:03 INFO User login success user=Naledi
+2026-07-24 18:07:04 INFO Health check OK
+2026-07-24 18:07:05 INFO Request served in 287ms
+2026-07-24 18:07:05 INFO Health check OK
+2026-07-24 18:07:05 INFO User login success user=Naledi
+2026-07-24 18:07:05 INFO Cache refreshed
+2026-07-24 18:07:05 INFO File uploaded successfully size=50KB
+2026-07-24 18:07:05 INFO Request served in 153ms
+2026-07-24 18:07:05 INFO Health check OK
+2026-07-24 18:07:06 INFO Cache refreshed
+2026-07-24 18:07:06 INFO User login success user=Kagiso
+2026-07-24 18:07:07 INFO User login success user=Naledi
+2026-07-24 18:07:07 INFO User login success user=Kagiso
+2026-07-24 18:07:08 INFO User login success user=Lerato
+2026-07-24 18:07:09 INFO Cache refreshed
+2026-07-24 18:07:10 INFO Health check OK
+2026-07-24 18:07:11 INFO Request served in 43ms
+2026-07-24 18:07:11 INFO Cache refreshed
+2026-07-24 18:07:12 INFO Health check OK
+2026-07-24 18:07:13 INFO Health check OK
+2026-07-24 18:07:14 INFO File uploaded successfully size=305KB
+2026-07-24 18:07:15 INFO Cache refreshed
+2026-07-24 18:07:16 INFO Request served in 3ms
+2026-07-24 18:07:17 INFO User login success user=Naledi
+2026-07-24 18:07:18 INFO Request served in 183ms
+2026-07-24 18:07:19 INFO User login success user=Naledi
+2026-07-24 18:07:19 INFO Cache refreshed
+2026-07-24 18:07:19 INFO Health check OK
+2026-07-24 18:07:19 INFO User login success user=Naledi
+2026-07-24 18:07:20 INFO File uploaded successfully size=167KB
+2026-07-24 18:07:20 INFO Request served in 194ms
+2026-07-24 18:07:20 INFO User login success user=Lerato
+2026-07-24 18:07:20 INFO User login success user=Kagiso
+2026-07-24 18:07:21 INFO File uploaded successfully size=442KB
+2026-07-24 18:07:22 INFO Cache refreshed
+2026-07-24 18:07:22 INFO Cache refreshed
+2026-07-24 18:07:22 INFO Cache refreshed
+2026-07-24 18:07:23 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:07:23 INFO Cache refreshed
+2026-07-24 18:07:24 INFO Health check OK
+2026-07-24 18:07:25 INFO File uploaded successfully size=136KB
+2026-07-24 18:07:25 INFO User login success user=Sipho
+2026-07-24 18:07:25 INFO User login success user=Sipho
+2026-07-24 18:07:25 INFO File uploaded successfully size=338KB
+2026-07-24 18:07:26 INFO File uploaded successfully size=82KB
+2026-07-24 18:07:26 INFO File uploaded successfully size=306KB
+2026-07-24 18:07:26 INFO Cache refreshed
+2026-07-24 18:07:27 INFO File uploaded successfully size=300KB
+2026-07-24 18:07:27 INFO Request served in 283ms
+2026-07-24 18:07:28 INFO User login success user=Kagiso
+2026-07-24 18:07:29 INFO User login success user=Kagiso
+2026-07-24 18:07:29 INFO User login success user=Naledi
+2026-07-24 18:07:29 INFO Request served in 310ms
+2026-07-24 18:07:29 INFO Cache refreshed
+2026-07-24 18:07:29 INFO User login success user=Lerato
+2026-07-24 18:07:30 INFO Health check OK
+2026-07-24 18:07:30 INFO User login success user=Kagiso
+2026-07-24 18:07:30 ERROR Failed login attempt user=Lerato
+2026-07-24 18:07:30 INFO Health check OK
+2026-07-24 18:07:31 INFO User login success user=Lerato
+2026-07-24 18:07:31 INFO User login success user=Tshepo
+2026-07-24 18:07:32 INFO User login success user=Naledi
+2026-07-24 18:07:33 INFO Request served in 49ms
+2026-07-24 18:07:33 INFO File uploaded successfully size=479KB
+2026-07-24 18:07:34 INFO Cache refreshed
+2026-07-24 18:07:35 INFO Cache refreshed
+2026-07-24 18:07:35 INFO User login success user=Tshepo
+2026-07-24 18:07:36 INFO Health check OK
+2026-07-24 18:07:36 INFO File uploaded successfully size=170KB
+2026-07-24 18:07:36 INFO Request served in 250ms
+2026-07-24 18:07:37 INFO Request served in 142ms
+2026-07-24 18:07:38 INFO Request served in 446ms
+2026-07-24 18:07:39 INFO File uploaded successfully size=13KB
+2026-07-24 18:07:39 INFO Request served in 373ms
+2026-07-24 18:07:39 INFO Cache refreshed
+2026-07-24 18:07:40 INFO Health check OK
+2026-07-24 18:07:41 ERROR 503 Service Unavailable
+2026-07-24 18:07:41 ERROR Database connection timeout
+2026-07-24 18:07:41 ERROR Database connection timeout
+2026-07-24 18:07:41 ERROR Null pointer exception in PaymentService
+2026-07-24 18:07:42 ERROR 503 Service Unavailable
+2026-07-24 18:07:42 ERROR Disk write failed
+2026-07-24 18:07:43 ERROR Database connection timeout
+2026-07-24 18:07:43 ERROR Null pointer exception in PaymentService
+2026-07-24 18:07:44 ERROR Null pointer exception in PaymentService
+2026-07-24 18:07:45 ERROR Disk write failed
+2026-07-24 18:07:45 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:07:45 ERROR Disk write failed
+2026-07-24 18:07:46 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:07:47 ERROR Database connection timeout
+2026-07-24 18:07:48 ERROR Failed login attempt user=Naledi
+2026-07-24 18:07:48 INFO Health check OK
+2026-07-24 18:07:49 INFO User login success user=Kagiso
+2026-07-24 18:07:49 INFO File uploaded successfully size=31KB
+2026-07-24 18:07:49 INFO File uploaded successfully size=477KB
+2026-07-24 18:07:50 INFO Request served in 296ms
+2026-07-24 18:07:51 INFO Request served in 206ms
+2026-07-24 18:07:52 INFO Health check OK
+2026-07-24 18:07:53 INFO Cache refreshed
+2026-07-24 18:07:54 INFO Health check OK
+2026-07-24 18:07:55 INFO File uploaded successfully size=469KB
+2026-07-24 18:07:56 INFO Health check OK
+2026-07-24 18:07:57 INFO Health check OK
+2026-07-24 18:07:58 INFO Request served in 37ms
+2026-07-24 18:07:58 ERROR Database connection timeout
+2026-07-24 18:07:59 INFO Request served in 56ms
+2026-07-24 18:07:59 INFO Request served in 7ms
+2026-07-24 18:07:59 INFO Request served in 499ms
+2026-07-24 18:08:00 INFO Health check OK
+2026-07-24 18:08:00 INFO User login success user=Naledi
+2026-07-24 18:08:00 INFO User login success user=Kagiso
+2026-07-24 18:08:01 INFO User login success user=Naledi
+2026-07-24 18:08:02 INFO File uploaded successfully size=350KB
+2026-07-24 18:08:02 INFO Request served in 391ms
+2026-07-24 18:08:03 INFO Request served in 102ms
+2026-07-24 18:08:03 INFO Cache refreshed
+2026-07-24 18:08:04 INFO Request served in 130ms
+2026-07-24 18:08:05 INFO Health check OK
+2026-07-24 18:08:06 INFO Request served in 307ms
+2026-07-24 18:08:06 INFO Request served in 19ms
+2026-07-24 18:08:07 ERROR 503 Service Unavailable
+2026-07-24 18:08:08 INFO User login success user=Naledi
+2026-07-24 18:08:09 INFO User login success user=Kagiso
+2026-07-24 18:08:09 INFO Cache refreshed
+2026-07-24 18:08:09 INFO Request served in 262ms
+2026-07-24 18:08:09 INFO User login success user=Tshepo
+2026-07-24 18:08:09 ERROR 503 Service Unavailable
+2026-07-24 18:08:10 INFO File uploaded successfully size=319KB
+2026-07-24 18:08:10 INFO User login success user=Sipho
+2026-07-24 18:08:10 ERROR 503 Service Unavailable
+2026-07-24 18:08:11 INFO User login success user=Sipho
+2026-07-24 18:08:11 INFO User login success user=Kagiso
+2026-07-24 18:08:12 INFO Health check OK
+2026-07-24 18:08:12 INFO Cache refreshed
+2026-07-24 18:08:12 INFO Cache refreshed
+2026-07-24 18:08:13 INFO File uploaded successfully size=30KB
+2026-07-24 18:08:14 INFO User login success user=Naledi
+2026-07-24 18:08:14 INFO Cache refreshed
+2026-07-24 18:08:14 INFO Request served in 64ms
+2026-07-24 18:08:14 INFO Health check OK
+2026-07-24 18:08:15 INFO User login success user=Sipho
+2026-07-24 18:08:15 INFO User login success user=Kagiso
+2026-07-24 18:08:15 ERROR 503 Service Unavailable
+2026-07-24 18:08:15 INFO User login success user=Sipho
+2026-07-24 18:08:15 INFO File uploaded successfully size=119KB
+2026-07-24 18:08:15 INFO Cache refreshed
+2026-07-24 18:08:15 INFO Request served in 445ms
+2026-07-24 18:08:16 INFO File uploaded successfully size=141KB
+2026-07-24 18:08:17 INFO Cache refreshed
+2026-07-24 18:08:18 INFO Health check OK
+2026-07-24 18:08:19 INFO Request served in 308ms
+2026-07-24 18:08:20 ERROR Disk write failed
+2026-07-24 18:08:20 INFO Health check OK
+2026-07-24 18:08:20 INFO Health check OK
+2026-07-24 18:08:20 INFO Cache refreshed
+2026-07-24 18:08:21 INFO User login success user=Tshepo
+2026-07-24 18:08:22 INFO Health check OK
+2026-07-24 18:08:22 INFO User login success user=Tshepo
+2026-07-24 18:08:22 INFO Cache refreshed
+2026-07-24 18:08:23 INFO User login success user=Kagiso
+2026-07-24 18:08:23 INFO Health check OK
+2026-07-24 18:08:23 INFO Health check OK
+2026-07-24 18:08:23 INFO Request served in 406ms
+2026-07-24 18:08:24 INFO Health check OK
+2026-07-24 18:08:25 INFO Health check OK
+2026-07-24 18:08:25 INFO File uploaded successfully size=314KB
+2026-07-24 18:08:26 INFO User login success user=Kagiso
+2026-07-24 18:08:26 INFO Request served in 296ms
+2026-07-24 18:08:26 INFO Request served in 124ms
+2026-07-24 18:08:27 INFO Health check OK
+2026-07-24 18:08:27 INFO File uploaded successfully size=19KB
+2026-07-24 18:08:28 INFO Cache refreshed
+2026-07-24 18:08:29 INFO Health check OK
+2026-07-24 18:08:29 INFO Health check OK
+2026-07-24 18:08:30 INFO File uploaded successfully size=352KB
+2026-07-24 18:08:30 INFO Health check OK
+2026-07-24 18:08:31 INFO Health check OK
+2026-07-24 18:08:31 INFO Request served in 152ms
+2026-07-24 18:08:31 INFO File uploaded successfully size=469KB
+2026-07-24 18:08:32 INFO Cache refreshed
+2026-07-24 18:08:32 INFO Cache refreshed
+2026-07-24 18:08:32 INFO Health check OK
+2026-07-24 18:08:32 INFO User login success user=Lerato
+2026-07-24 18:08:33 INFO Request served in 216ms
+2026-07-24 18:08:34 INFO Cache refreshed
+2026-07-24 18:08:35 INFO User login success user=Naledi
+2026-07-24 18:08:36 INFO Cache refreshed
+2026-07-24 18:08:37 INFO Request served in 479ms
+2026-07-24 18:08:38 ERROR Database connection timeout
+2026-07-24 18:08:39 INFO User login success user=Sipho
+2026-07-24 18:08:39 INFO File uploaded successfully size=344KB
+2026-07-24 18:08:40 INFO Health check OK
+2026-07-24 18:08:40 INFO User login success user=Lerato
+2026-07-24 18:08:40 INFO Request served in 92ms
+2026-07-24 18:08:40 INFO File uploaded successfully size=410KB
+2026-07-24 18:08:40 INFO Health check OK
+2026-07-24 18:08:40 INFO User login success user=Lerato
+2026-07-24 18:08:41 INFO User login success user=Sipho
+2026-07-24 18:08:42 INFO Health check OK
+2026-07-24 18:08:42 INFO File uploaded successfully size=187KB
+2026-07-24 18:08:42 INFO Request served in 289ms
+2026-07-24 18:08:42 INFO Cache refreshed
+2026-07-24 18:08:42 INFO Request served in 408ms
+2026-07-24 18:08:43 INFO Request served in 411ms
+2026-07-24 18:08:44 INFO Cache refreshed
+2026-07-24 18:08:45 INFO User login success user=Naledi
+2026-07-24 18:08:45 INFO Health check OK
+2026-07-24 18:08:46 INFO File uploaded successfully size=449KB
+2026-07-24 18:08:46 INFO Health check OK
+2026-07-24 18:08:46 INFO User login success user=Sipho
+2026-07-24 18:08:46 INFO Health check OK
+2026-07-24 18:08:46 INFO Cache refreshed
+2026-07-24 18:08:46 INFO File uploaded successfully size=22KB
+2026-07-24 18:08:46 INFO Cache refreshed
+2026-07-24 18:08:46 ERROR Disk write failed
+2026-07-24 18:08:47 INFO File uploaded successfully size=477KB
+2026-07-24 18:08:48 INFO Cache refreshed
+2026-07-24 18:08:48 INFO Request served in 49ms
+2026-07-24 18:08:48 INFO Health check OK
+2026-07-24 18:08:49 INFO Cache refreshed
+2026-07-24 18:08:49 INFO File uploaded successfully size=470KB
+2026-07-24 18:08:50 ERROR Disk write failed
+2026-07-24 18:08:50 INFO Request served in 86ms
+2026-07-24 18:08:51 INFO Request served in 296ms
+2026-07-24 18:08:51 INFO User login success user=Lerato
+2026-07-24 18:08:51 INFO Health check OK
+2026-07-24 18:08:51 INFO Request served in 99ms
+2026-07-24 18:08:51 INFO Cache refreshed
+2026-07-24 18:08:51 INFO Cache refreshed
+2026-07-24 18:08:52 INFO Health check OK
+2026-07-24 18:08:52 INFO File uploaded successfully size=8KB
+2026-07-24 18:08:52 INFO User login success user=Sipho
+2026-07-24 18:08:53 INFO Request served in 443ms
+2026-07-24 18:08:54 INFO File uploaded successfully size=368KB
+2026-07-24 18:08:54 INFO User login success user=Kagiso
+2026-07-24 18:08:55 INFO User login success user=Naledi
+2026-07-24 18:08:56 INFO Request served in 416ms
+2026-07-24 18:08:57 INFO Cache refreshed
+2026-07-24 18:08:58 INFO File uploaded successfully size=418KB
+2026-07-24 18:08:59 INFO File uploaded successfully size=161KB
+2026-07-24 18:08:59 INFO Health check OK
+2026-07-24 18:09:00 INFO User login success user=Lerato
+2026-07-24 18:09:01 INFO User login success user=Lerato
+2026-07-24 18:09:01 INFO Request served in 492ms
+2026-07-24 18:09:02 ERROR 503 Service Unavailable
+2026-07-24 18:09:03 INFO User login success user=Kagiso
+2026-07-24 18:09:04 ERROR Failed login attempt user=Naledi
+2026-07-24 18:09:05 INFO User login success user=Naledi
+2026-07-24 18:09:05 INFO User login success user=Sipho
+2026-07-24 18:09:06 INFO Health check OK
+2026-07-24 18:09:07 INFO Cache refreshed
+2026-07-24 18:09:07 INFO User login success user=Sipho
+2026-07-24 18:09:08 INFO Request served in 250ms
+2026-07-24 18:09:08 INFO File uploaded successfully size=98KB
+2026-07-24 18:09:09 ERROR Database connection timeout
+2026-07-24 18:09:10 INFO Cache refreshed
+2026-07-24 18:09:10 INFO Health check OK
+2026-07-24 18:09:10 INFO File uploaded successfully size=314KB
+2026-07-24 18:09:11 INFO User login success user=Lerato
+2026-07-24 18:09:12 INFO File uploaded successfully size=482KB
+2026-07-24 18:09:13 INFO Cache refreshed
+2026-07-24 18:09:13 INFO User login success user=Lerato
+2026-07-24 18:09:13 INFO User login success user=Naledi
+2026-07-24 18:09:14 INFO File uploaded successfully size=307KB
+2026-07-24 18:09:14 INFO User login success user=Sipho
+2026-07-24 18:09:15 INFO Cache refreshed
+2026-07-24 18:09:16 INFO Cache refreshed
+2026-07-24 18:09:17 INFO File uploaded successfully size=37KB
+2026-07-24 18:09:18 INFO Health check OK
+2026-07-24 18:09:19 INFO Request served in 2ms
+2026-07-24 18:09:20 INFO Request served in 285ms
+2026-07-24 18:09:21 INFO Cache refreshed
+2026-07-24 18:09:22 INFO File uploaded successfully size=348KB
+2026-07-24 18:09:23 INFO Health check OK
+2026-07-24 18:09:23 INFO Health check OK
+2026-07-24 18:09:24 INFO User login success user=Lerato
+2026-07-24 18:09:24 INFO User login success user=Kagiso
+2026-07-24 18:09:24 INFO Cache refreshed
+2026-07-24 18:09:24 INFO Request served in 10ms
+2026-07-24 18:09:25 INFO Health check OK
+2026-07-24 18:09:26 INFO Cache refreshed
+2026-07-24 18:09:27 INFO Cache refreshed
+2026-07-24 18:09:27 INFO Cache refreshed
+2026-07-24 18:09:28 INFO Request served in 116ms
+2026-07-24 18:09:29 INFO Request served in 350ms
+2026-07-24 18:09:29 ERROR Disk write failed
+2026-07-24 18:09:29 INFO Health check OK
+2026-07-24 18:09:29 INFO Cache refreshed
+2026-07-24 18:09:30 INFO File uploaded successfully size=477KB
+2026-07-24 18:09:31 INFO Cache refreshed
+2026-07-24 18:09:32 INFO Cache refreshed
+2026-07-24 18:09:32 INFO Request served in 239ms
+2026-07-24 18:09:33 ERROR Database connection timeout
+2026-07-24 18:09:34 INFO Health check OK
+2026-07-24 18:09:34 INFO Cache refreshed
+2026-07-24 18:09:34 INFO Health check OK
+2026-07-24 18:09:34 INFO File uploaded successfully size=377KB
+2026-07-24 18:09:35 INFO Request served in 62ms
+2026-07-24 18:09:36 INFO File uploaded successfully size=239KB
+2026-07-24 18:09:37 INFO Cache refreshed
+2026-07-24 18:09:37 ERROR Null pointer exception in PaymentService
+2026-07-24 18:09:37 INFO User login success user=Sipho
+2026-07-24 18:09:38 INFO Cache refreshed
+2026-07-24 18:09:38 INFO Cache refreshed
+2026-07-24 18:09:39 INFO File uploaded successfully size=380KB
+2026-07-24 18:09:40 ERROR Database connection timeout
+2026-07-24 18:09:41 INFO Request served in 356ms
+2026-07-24 18:09:42 INFO Request served in 382ms
+2026-07-24 18:09:42 INFO User login success user=Lerato
+2026-07-24 18:09:42 INFO Cache refreshed
+2026-07-24 18:09:43 INFO User login success user=Sipho
+2026-07-24 18:09:43 INFO Health check OK
+2026-07-24 18:09:43 INFO File uploaded successfully size=176KB
+2026-07-24 18:09:43 INFO Request served in 317ms
+2026-07-24 18:09:44 INFO Cache refreshed
+2026-07-24 18:09:44 INFO Health check OK
+2026-07-24 18:09:45 INFO User login success user=Naledi
+2026-07-24 18:09:45 INFO Request served in 385ms
+2026-07-24 18:09:46 INFO File uploaded successfully size=140KB
+2026-07-24 18:09:46 INFO Request served in 379ms
+2026-07-24 18:09:46 INFO User login success user=Sipho
+2026-07-24 18:09:47 INFO Cache refreshed
+2026-07-24 18:09:48 INFO File uploaded successfully size=411KB
+2026-07-24 18:09:48 INFO User login success user=Sipho
+2026-07-24 18:09:49 INFO User login success user=Lerato
+2026-07-24 18:09:50 INFO File uploaded successfully size=231KB
+2026-07-24 18:09:50 INFO Health check OK
+2026-07-24 18:09:50 INFO Cache refreshed
+2026-07-24 18:09:51 INFO User login success user=Kagiso
+2026-07-24 18:09:51 INFO Cache refreshed
+2026-07-24 18:09:52 INFO User login success user=Naledi
+2026-07-24 18:09:52 INFO Health check OK
+2026-07-24 18:09:52 INFO Request served in 140ms
+2026-07-24 18:09:52 INFO File uploaded successfully size=346KB
+2026-07-24 18:09:52 INFO Request served in 374ms
+2026-07-24 18:09:52 INFO Health check OK
+2026-07-24 18:09:52 INFO File uploaded successfully size=110KB
+2026-07-24 18:09:52 INFO Cache refreshed
+2026-07-24 18:09:53 INFO Health check OK
+2026-07-24 18:09:54 INFO File uploaded successfully size=336KB
+2026-07-24 18:09:54 INFO File uploaded successfully size=21KB
+2026-07-24 18:09:54 INFO User login success user=Sipho
+2026-07-24 18:09:54 INFO User login success user=Tshepo
+2026-07-24 18:09:55 INFO Cache refreshed
+2026-07-24 18:09:55 INFO User login success user=Sipho
+2026-07-24 18:09:56 INFO Health check OK
+2026-07-24 18:09:57 INFO File uploaded successfully size=183KB
+2026-07-24 18:09:57 INFO Cache refreshed
+2026-07-24 18:09:58 INFO Cache refreshed
+2026-07-24 18:09:59 INFO Health check OK
+2026-07-24 18:09:59 INFO Cache refreshed
+2026-07-24 18:10:00 INFO Cache refreshed
+2026-07-24 18:10:00 INFO Cache refreshed
+2026-07-24 18:10:00 INFO File uploaded successfully size=348KB
+2026-07-24 18:10:01 INFO File uploaded successfully size=171KB
+2026-07-24 18:10:01 INFO Request served in 241ms
+2026-07-24 18:10:01 INFO Health check OK
+2026-07-24 18:10:01 INFO User login success user=Lerato
+2026-07-24 18:10:02 INFO Health check OK
+2026-07-24 18:10:02 INFO Cache refreshed
+2026-07-24 18:10:02 INFO Request served in 45ms
+2026-07-24 18:10:03 INFO User login success user=Sipho
+2026-07-24 18:10:04 INFO Cache refreshed
+2026-07-24 18:10:04 INFO Request served in 89ms
+2026-07-24 18:10:05 INFO Health check OK
+2026-07-24 18:10:06 INFO File uploaded successfully size=23KB
+2026-07-24 18:10:06 INFO File uploaded successfully size=233KB
+2026-07-24 18:10:06 INFO File uploaded successfully size=167KB
+2026-07-24 18:10:07 INFO Cache refreshed
+2026-07-24 18:10:07 INFO Health check OK
+2026-07-24 18:10:08 INFO Health check OK
+2026-07-24 18:10:08 INFO File uploaded successfully size=76KB
+2026-07-24 18:10:08 INFO Health check OK
+2026-07-24 18:10:08 INFO Health check OK
+2026-07-24 18:10:09 INFO User login success user=Naledi
+2026-07-24 18:10:09 INFO User login success user=Naledi
+2026-07-24 18:10:09 ERROR Database connection timeout
+2026-07-24 18:10:09 ERROR Database connection timeout
+2026-07-24 18:10:09 ERROR 503 Service Unavailable
+2026-07-24 18:10:10 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:11 ERROR 503 Service Unavailable
+2026-07-24 18:10:12 ERROR 503 Service Unavailable
+2026-07-24 18:10:12 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:13 ERROR 503 Service Unavailable
+2026-07-24 18:10:14 ERROR Database connection timeout
+2026-07-24 18:10:14 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:14 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:14 ERROR Database connection timeout
+2026-07-24 18:10:14 ERROR Disk write failed
+2026-07-24 18:10:14 ERROR 503 Service Unavailable
+2026-07-24 18:10:14 ERROR Disk write failed
+2026-07-24 18:10:15 INFO Request served in 466ms
+2026-07-24 18:10:16 INFO Health check OK
+2026-07-24 18:10:16 INFO File uploaded successfully size=86KB
+2026-07-24 18:10:17 INFO Request served in 179ms
+2026-07-24 18:10:18 INFO Request served in 111ms
+2026-07-24 18:10:18 INFO Health check OK
+2026-07-24 18:10:18 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:18 INFO Health check OK
+2026-07-24 18:10:18 INFO Cache refreshed
+2026-07-24 18:10:18 INFO User login success user=Kagiso
+2026-07-24 18:10:18 INFO Cache refreshed
+2026-07-24 18:10:18 INFO Cache refreshed
+2026-07-24 18:10:19 ERROR Failed login attempt user=Sipho
+2026-07-24 18:10:19 INFO File uploaded successfully size=497KB
+2026-07-24 18:10:20 INFO Health check OK
+2026-07-24 18:10:20 INFO Request served in 339ms
+2026-07-24 18:10:21 INFO File uploaded successfully size=337KB
+2026-07-24 18:10:22 INFO Cache refreshed
+2026-07-24 18:10:22 INFO Cache refreshed
+2026-07-24 18:10:22 INFO Request served in 435ms
+2026-07-24 18:10:23 INFO User login success user=Naledi
+2026-07-24 18:10:23 INFO Cache refreshed
+2026-07-24 18:10:24 INFO Request served in 393ms
+2026-07-24 18:10:24 INFO User login success user=Naledi
+2026-07-24 18:10:25 ERROR Disk write failed
+2026-07-24 18:10:26 INFO Health check OK
+2026-07-24 18:10:27 INFO File uploaded successfully size=161KB
+2026-07-24 18:10:27 INFO Request served in 400ms
+2026-07-24 18:10:27 INFO User login success user=Kagiso
+2026-07-24 18:10:27 INFO Health check OK
+2026-07-24 18:10:28 INFO User login success user=Kagiso
+2026-07-24 18:10:29 INFO File uploaded successfully size=266KB
+2026-07-24 18:10:29 INFO Cache refreshed
+2026-07-24 18:10:30 INFO Cache refreshed
+2026-07-24 18:10:31 INFO File uploaded successfully size=273KB
+2026-07-24 18:10:31 INFO Request served in 299ms
+2026-07-24 18:10:32 INFO File uploaded successfully size=8KB
+2026-07-24 18:10:33 INFO File uploaded successfully size=215KB
+2026-07-24 18:10:33 INFO Cache refreshed
+2026-07-24 18:10:33 INFO Request served in 196ms
+2026-07-24 18:10:34 INFO Health check OK
+2026-07-24 18:10:34 INFO Health check OK
+2026-07-24 18:10:34 INFO User login success user=Kagiso
+2026-07-24 18:10:34 INFO File uploaded successfully size=112KB
+2026-07-24 18:10:35 INFO Cache refreshed
+2026-07-24 18:10:36 INFO Cache refreshed
+2026-07-24 18:10:36 INFO Health check OK
+2026-07-24 18:10:37 INFO File uploaded successfully size=176KB
+2026-07-24 18:10:38 INFO Cache refreshed
+2026-07-24 18:10:38 INFO Cache refreshed
+2026-07-24 18:10:39 INFO User login success user=Kagiso
+2026-07-24 18:10:39 INFO Cache refreshed
+2026-07-24 18:10:40 INFO Cache refreshed
+2026-07-24 18:10:40 INFO User login success user=Tshepo
+2026-07-24 18:10:41 INFO File uploaded successfully size=383KB
+2026-07-24 18:10:42 INFO Cache refreshed
+2026-07-24 18:10:43 INFO File uploaded successfully size=302KB
+2026-07-24 18:10:43 INFO Health check OK
+2026-07-24 18:10:43 INFO File uploaded successfully size=309KB
+2026-07-24 18:10:43 INFO Cache refreshed
+2026-07-24 18:10:44 INFO Cache refreshed
+2026-07-24 18:10:44 INFO User login success user=Tshepo
+2026-07-24 18:10:44 INFO Health check OK
+2026-07-24 18:10:44 INFO User login success user=Tshepo
+2026-07-24 18:10:44 INFO Health check OK
+2026-07-24 18:10:45 INFO File uploaded successfully size=184KB
+2026-07-24 18:10:45 INFO File uploaded successfully size=111KB
+2026-07-24 18:10:46 INFO Health check OK
+2026-07-24 18:10:46 INFO Health check OK
+2026-07-24 18:10:46 INFO File uploaded successfully size=89KB
+2026-07-24 18:10:46 INFO Cache refreshed
+2026-07-24 18:10:46 INFO Health check OK
+2026-07-24 18:10:46 INFO Health check OK
+2026-07-24 18:10:46 INFO Request served in 309ms
+2026-07-24 18:10:46 INFO User login success user=Lerato
+2026-07-24 18:10:46 INFO Request served in 60ms
+2026-07-24 18:10:46 INFO User login success user=Kagiso
+2026-07-24 18:10:46 INFO Request served in 439ms
+2026-07-24 18:10:47 INFO Cache refreshed
+2026-07-24 18:10:48 INFO File uploaded successfully size=44KB
+2026-07-24 18:10:48 INFO Cache refreshed
+2026-07-24 18:10:48 INFO File uploaded successfully size=435KB
+2026-07-24 18:10:48 INFO Request served in 29ms
+2026-07-24 18:10:48 INFO Health check OK
+2026-07-24 18:10:49 INFO Cache refreshed
+2026-07-24 18:10:50 INFO File uploaded successfully size=352KB
+2026-07-24 18:10:50 INFO Request served in 478ms
+2026-07-24 18:10:50 INFO Cache refreshed
+2026-07-24 18:10:51 INFO Request served in 309ms
+2026-07-24 18:10:51 ERROR Null pointer exception in PaymentService
+2026-07-24 18:10:52 INFO Request served in 391ms
+2026-07-24 18:10:53 INFO Health check OK
+2026-07-24 18:10:54 INFO File uploaded successfully size=118KB
+2026-07-24 18:10:55 INFO Request served in 486ms
+2026-07-24 18:10:56 INFO Health check OK
+2026-07-24 18:10:56 INFO Request served in 159ms
+2026-07-24 18:10:57 INFO User login success user=Kagiso
+2026-07-24 18:10:58 INFO File uploaded successfully size=140KB
+2026-07-24 18:10:59 INFO Cache refreshed
+2026-07-24 18:11:00 INFO User login success user=Naledi
+2026-07-24 18:11:00 INFO File uploaded successfully size=390KB
+2026-07-24 18:11:01 INFO User login success user=Sipho
+2026-07-24 18:11:01 INFO Cache refreshed
+2026-07-24 18:11:02 INFO User login success user=Lerato
+2026-07-24 18:11:02 INFO Cache refreshed
+2026-07-24 18:11:02 INFO File uploaded successfully size=40KB
+2026-07-24 18:11:02 INFO File uploaded successfully size=89KB
+2026-07-24 18:11:03 INFO Health check OK
+2026-07-24 18:11:03 ERROR 503 Service Unavailable
+2026-07-24 18:11:03 INFO Health check OK
+2026-07-24 18:11:03 INFO File uploaded successfully size=233KB
+2026-07-24 18:11:04 INFO Cache refreshed
+2026-07-24 18:11:04 INFO Request served in 48ms
+2026-07-24 18:11:04 INFO Cache refreshed
+2026-07-24 18:11:05 ERROR Database connection timeout
+2026-07-24 18:11:05 INFO Health check OK
+2026-07-24 18:11:06 INFO Request served in 320ms
+2026-07-24 18:11:07 INFO Request served in 70ms
+2026-07-24 18:11:08 INFO Health check OK
+2026-07-24 18:11:08 INFO Cache refreshed
+2026-07-24 18:11:08 INFO User login success user=Naledi
+2026-07-24 18:11:09 INFO Health check OK
+2026-07-24 18:11:10 INFO User login success user=Kagiso
+2026-07-24 18:11:10 INFO Request served in 95ms
+2026-07-24 18:11:10 INFO Request served in 239ms
+2026-07-24 18:11:11 INFO Request served in 83ms
+2026-07-24 18:11:11 ERROR Disk write failed
+2026-07-24 18:11:11 INFO Cache refreshed
+2026-07-24 18:11:11 INFO Request served in 441ms
+2026-07-24 18:11:11 INFO File uploaded successfully size=270KB
+2026-07-24 18:11:11 INFO Health check OK
+2026-07-24 18:11:12 INFO Health check OK
+2026-07-24 18:11:12 INFO User login success user=Lerato
+2026-07-24 18:11:13 INFO User login success user=Sipho
+2026-07-24 18:11:14 INFO User login success user=Naledi
+2026-07-24 18:11:15 INFO Health check OK
+2026-07-24 18:11:15 INFO File uploaded successfully size=294KB
+2026-07-24 18:11:15 INFO User login success user=Tshepo
+2026-07-24 18:11:16 INFO Cache refreshed
+2026-07-24 18:11:17 INFO User login success user=Tshepo
+2026-07-24 18:11:18 INFO Cache refreshed
+2026-07-24 18:11:19 INFO Cache refreshed
+2026-07-24 18:11:20 INFO Health check OK
+2026-07-24 18:11:20 INFO File uploaded successfully size=476KB
+2026-07-24 18:11:20 INFO User login success user=Naledi
+2026-07-24 18:11:20 INFO Cache refreshed
+2026-07-24 18:11:20 INFO User login success user=Tshepo
+2026-07-24 18:11:20 INFO File uploaded successfully size=250KB
+2026-07-24 18:11:21 INFO Health check OK
+2026-07-24 18:11:21 INFO Cache refreshed
+2026-07-24 18:11:21 INFO Cache refreshed
+2026-07-24 18:11:22 INFO User login success user=Sipho
+2026-07-24 18:11:23 ERROR Database connection timeout
+2026-07-24 18:11:23 INFO Request served in 468ms
+2026-07-24 18:11:23 INFO Cache refreshed
+2026-07-24 18:11:23 INFO Health check OK
+2026-07-24 18:11:23 INFO File uploaded successfully size=424KB
+2026-07-24 18:11:24 INFO Request served in 139ms
+2026-07-24 18:11:25 INFO User login success user=Tshepo
+2026-07-24 18:11:25 ERROR Database connection timeout
+2026-07-24 18:11:25 INFO Request served in 469ms
+2026-07-24 18:11:25 INFO Request served in 150ms
+2026-07-24 18:11:25 INFO User login success user=Naledi
+2026-07-24 18:11:25 ERROR Disk write failed
+2026-07-24 18:11:25 INFO Request served in 8ms
+2026-07-24 18:11:25 INFO User login success user=Lerato
+2026-07-24 18:11:26 INFO Cache refreshed
+2026-07-24 18:11:27 INFO Request served in 315ms
+2026-07-24 18:11:28 INFO File uploaded successfully size=458KB
+2026-07-24 18:11:28 INFO Cache refreshed
+2026-07-24 18:11:29 INFO File uploaded successfully size=328KB
+2026-07-24 18:11:30 INFO File uploaded successfully size=244KB
+2026-07-24 18:11:30 INFO Request served in 436ms
+2026-07-24 18:11:31 INFO Health check OK
+2026-07-24 18:11:31 INFO Request served in 234ms
+2026-07-24 18:11:31 INFO File uploaded successfully size=143KB
+2026-07-24 18:11:32 INFO File uploaded successfully size=494KB
+2026-07-24 18:11:32 ERROR Null pointer exception in PaymentService
+2026-07-24 18:11:33 INFO User login success user=Sipho
+2026-07-24 18:11:34 ERROR 503 Service Unavailable
+2026-07-24 18:11:34 INFO Cache refreshed
+2026-07-24 18:11:35 INFO Request served in 260ms
+2026-07-24 18:11:36 INFO Health check OK
+2026-07-24 18:11:36 INFO Health check OK
+2026-07-24 18:11:36 INFO User login success user=Lerato
+2026-07-24 18:11:36 INFO Cache refreshed
+2026-07-24 18:11:37 INFO Request served in 265ms
+2026-07-24 18:11:37 INFO File uploaded successfully size=222KB
+2026-07-24 18:11:38 INFO Request served in 136ms
+2026-07-24 18:11:39 INFO User login success user=Sipho
+2026-07-24 18:11:39 INFO Cache refreshed
+2026-07-24 18:11:39 INFO Request served in 161ms
+2026-07-24 18:11:39 INFO File uploaded successfully size=268KB
+2026-07-24 18:11:40 INFO File uploaded successfully size=225KB
+2026-07-24 18:11:40 INFO Health check OK
+2026-07-24 18:11:41 INFO File uploaded successfully size=478KB
+2026-07-24 18:11:41 INFO Request served in 230ms
+2026-07-24 18:11:41 INFO User login success user=Kagiso
+2026-07-24 18:11:41 INFO User login success user=Sipho
+2026-07-24 18:11:41 INFO File uploaded successfully size=439KB
+2026-07-24 18:11:41 INFO User login success user=Tshepo
+2026-07-24 18:11:42 INFO Request served in 377ms
+2026-07-24 18:11:43 INFO Health check OK
+2026-07-24 18:11:43 INFO Request served in 171ms
+2026-07-24 18:11:44 INFO User login success user=Kagiso
+2026-07-24 18:11:45 INFO Request served in 97ms
+2026-07-24 18:11:45 ERROR Disk write failed
+2026-07-24 18:11:46 INFO File uploaded successfully size=399KB
+2026-07-24 18:11:47 INFO Health check OK
+2026-07-24 18:11:47 INFO Cache refreshed
+2026-07-24 18:11:48 ERROR 503 Service Unavailable
+2026-07-24 18:11:49 INFO User login success user=Kagiso
+2026-07-24 18:11:50 INFO Request served in 298ms
+2026-07-24 18:11:51 INFO Health check OK
+2026-07-24 18:11:51 ERROR Disk write failed
+2026-07-24 18:11:51 INFO Cache refreshed
+2026-07-24 18:11:52 ERROR Database connection timeout
+2026-07-24 18:11:52 INFO User login success user=Kagiso
+2026-07-24 18:11:52 INFO Cache refreshed
+2026-07-24 18:11:53 INFO File uploaded successfully size=460KB
+2026-07-24 18:11:53 INFO Cache refreshed
+2026-07-24 18:11:53 INFO User login success user=Lerato
+2026-07-24 18:11:54 INFO File uploaded successfully size=33KB
+2026-07-24 18:11:55 INFO User login success user=Naledi
+2026-07-24 18:11:55 INFO File uploaded successfully size=352KB
+2026-07-24 18:11:56 INFO Health check OK
+2026-07-24 18:11:56 INFO Request served in 362ms
+2026-07-24 18:11:56 INFO Request served in 225ms
+2026-07-24 18:11:57 INFO Request served in 149ms
+2026-07-24 18:11:57 INFO Request served in 449ms
+2026-07-24 18:11:57 INFO File uploaded successfully size=6KB
+2026-07-24 18:11:58 INFO Health check OK
+2026-07-24 18:11:58 INFO Request served in 492ms
+2026-07-24 18:11:58 INFO User login success user=Naledi
+2026-07-24 18:11:59 ERROR 503 Service Unavailable
+2026-07-24 18:12:00 INFO Cache refreshed
+2026-07-24 18:12:00 INFO File uploaded successfully size=139KB
+2026-07-24 18:12:00 INFO Health check OK
+2026-07-24 18:12:00 INFO Request served in 225ms
+2026-07-24 18:12:01 INFO Health check OK
+2026-07-24 18:12:01 INFO File uploaded successfully size=462KB
+2026-07-24 18:12:01 INFO Request served in 120ms
+2026-07-24 18:12:02 INFO User login success user=Sipho
+2026-07-24 18:12:02 INFO Cache refreshed
+2026-07-24 18:12:02 INFO Health check OK
+2026-07-24 18:12:03 INFO File uploaded successfully size=154KB
+2026-07-24 18:12:04 INFO Request served in 43ms
+2026-07-24 18:12:04 INFO File uploaded successfully size=383KB
+2026-07-24 18:12:04 INFO Health check OK
+2026-07-24 18:12:05 INFO Cache refreshed
+2026-07-24 18:12:06 INFO Health check OK
+2026-07-24 18:12:07 INFO Request served in 191ms
+2026-07-24 18:12:08 INFO Cache refreshed
+2026-07-24 18:12:08 INFO Health check OK
+2026-07-24 18:12:08 INFO Request served in 208ms
+2026-07-24 18:12:09 INFO User login success user=Lerato
+2026-07-24 18:12:10 INFO Request served in 42ms
+2026-07-24 18:12:10 INFO User login success user=Naledi
+2026-07-24 18:12:11 INFO File uploaded successfully size=142KB
+2026-07-24 18:12:12 INFO Request served in 51ms
+2026-07-24 18:12:13 INFO File uploaded successfully size=48KB
+2026-07-24 18:12:13 INFO File uploaded successfully size=122KB
+2026-07-24 18:12:14 INFO User login success user=Naledi
+2026-07-24 18:12:14 INFO Request served in 22ms
+2026-07-24 18:12:15 INFO Health check OK
+2026-07-24 18:12:16 INFO User login success user=Kagiso
+2026-07-24 18:12:16 INFO User login success user=Sipho
+2026-07-24 18:12:16 INFO Health check OK
+2026-07-24 18:12:17 INFO File uploaded successfully size=238KB
+2026-07-24 18:12:18 INFO Health check OK
+2026-07-24 18:12:19 INFO Cache refreshed
+2026-07-24 18:12:19 INFO User login success user=Sipho
+2026-07-24 18:12:19 INFO Health check OK
+2026-07-24 18:12:19 ERROR Null pointer exception in PaymentService
+2026-07-24 18:12:19 INFO Cache refreshed
+2026-07-24 18:12:20 INFO Cache refreshed
+2026-07-24 18:12:20 INFO Request served in 482ms
+2026-07-24 18:12:21 INFO User login success user=Kagiso
+2026-07-24 18:12:22 INFO Cache refreshed
+2026-07-24 18:12:22 INFO Cache refreshed
+2026-07-24 18:12:23 INFO Cache refreshed
+2026-07-24 18:12:24 INFO Request served in 326ms
+2026-07-24 18:12:25 INFO File uploaded successfully size=427KB
+2026-07-24 18:12:25 INFO Health check OK
+2026-07-24 18:12:25 INFO User login success user=Kagiso
+2026-07-24 18:12:25 ERROR Database connection timeout
+2026-07-24 18:12:25 ERROR Database connection timeout
+2026-07-24 18:12:25 ERROR Disk write failed
+2026-07-24 18:12:26 ERROR Database connection timeout
+2026-07-24 18:12:27 ERROR Null pointer exception in PaymentService
+2026-07-24 18:12:28 ERROR 503 Service Unavailable
+2026-07-24 18:12:28 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:12:29 ERROR Database connection timeout
+2026-07-24 18:12:30 ERROR Failed login attempt user=Naledi
+2026-07-24 18:12:30 ERROR Database connection timeout
+2026-07-24 18:12:31 ERROR Null pointer exception in PaymentService
+2026-07-24 18:12:32 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:12:32 ERROR Disk write failed
+2026-07-24 18:12:32 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:12:32 ERROR Failed login attempt user=Sipho
+2026-07-24 18:12:33 INFO Health check OK
+2026-07-24 18:12:33 INFO User login success user=Lerato
+2026-07-24 18:12:34 INFO Cache refreshed
+2026-07-24 18:12:34 INFO File uploaded successfully size=403KB
+2026-07-24 18:12:35 INFO User login success user=Sipho
+2026-07-24 18:12:35 INFO File uploaded successfully size=432KB
+2026-07-24 18:12:35 INFO User login success user=Tshepo
+2026-07-24 18:12:36 INFO Health check OK
+2026-07-24 18:12:36 INFO File uploaded successfully size=8KB
+2026-07-24 18:12:37 INFO Cache refreshed
+2026-07-24 18:12:38 INFO Request served in 222ms
+2026-07-24 18:12:38 ERROR Null pointer exception in PaymentService
+2026-07-24 18:12:39 INFO File uploaded successfully size=256KB
+2026-07-24 18:12:39 INFO File uploaded successfully size=399KB
+2026-07-24 18:12:39 INFO User login success user=Sipho
+2026-07-24 18:12:40 INFO User login success user=Sipho
+2026-07-24 18:12:41 INFO Cache refreshed
+2026-07-24 18:12:42 INFO Request served in 350ms
+2026-07-24 18:12:43 INFO Request served in 311ms
+2026-07-24 18:12:43 INFO Health check OK
+2026-07-24 18:12:44 INFO Cache refreshed
+2026-07-24 18:12:44 INFO Cache refreshed
+2026-07-24 18:12:44 INFO User login success user=Lerato
+2026-07-24 18:12:45 INFO Request served in 358ms
+2026-07-24 18:12:46 INFO Request served in 188ms
+2026-07-24 18:12:47 INFO User login success user=Lerato
+2026-07-24 18:12:47 INFO Request served in 201ms
+2026-07-24 18:12:48 INFO Request served in 141ms
+2026-07-24 18:12:49 INFO User login success user=Sipho
+2026-07-24 18:12:49 INFO Cache refreshed
+2026-07-24 18:12:49 INFO Request served in 476ms
+2026-07-24 18:12:50 INFO File uploaded successfully size=496KB
+2026-07-24 18:12:50 ERROR Null pointer exception in PaymentService
+2026-07-24 18:12:50 INFO Cache refreshed
+2026-07-24 18:12:51 INFO User login success user=Kagiso
+2026-07-24 18:12:51 ERROR Disk write failed
+2026-07-24 18:12:51 INFO File uploaded successfully size=308KB
+2026-07-24 18:12:52 INFO Cache refreshed
+2026-07-24 18:12:53 INFO User login success user=Tshepo
+2026-07-24 18:12:53 INFO Request served in 49ms
+2026-07-24 18:12:53 INFO Cache refreshed
+2026-07-24 18:12:53 INFO Request served in 344ms
+2026-07-24 18:12:53 ERROR Disk write failed
+2026-07-24 18:12:54 INFO Health check OK
+2026-07-24 18:12:54 INFO Health check OK
+2026-07-24 18:12:55 INFO Cache refreshed
+2026-07-24 18:12:56 INFO File uploaded successfully size=158KB
+2026-07-24 18:12:57 INFO Health check OK
+2026-07-24 18:12:57 INFO File uploaded successfully size=99KB
+2026-07-24 18:12:57 INFO User login success user=Naledi
+2026-07-24 18:12:58 INFO File uploaded successfully size=479KB
+2026-07-24 18:12:59 INFO Health check OK
+2026-07-24 18:13:00 INFO User login success user=Naledi
+2026-07-24 18:13:00 INFO Cache refreshed
+2026-07-24 18:13:00 INFO File uploaded successfully size=125KB
+2026-07-24 18:13:00 INFO Health check OK
+2026-07-24 18:13:01 INFO File uploaded successfully size=12KB
+2026-07-24 18:13:01 INFO User login success user=Kagiso
+2026-07-24 18:13:01 INFO File uploaded successfully size=195KB
+2026-07-24 18:13:02 INFO Health check OK
+2026-07-24 18:13:03 INFO File uploaded successfully size=228KB
+2026-07-24 18:13:04 INFO Request served in 143ms
+2026-07-24 18:13:05 INFO Request served in 429ms
+2026-07-24 18:13:05 INFO File uploaded successfully size=290KB
+2026-07-24 18:13:05 ERROR Database connection timeout
+2026-07-24 18:13:06 INFO Cache refreshed
+2026-07-24 18:13:07 INFO User login success user=Tshepo
+2026-07-24 18:13:07 INFO Request served in 144ms
+2026-07-24 18:13:08 INFO User login success user=Sipho
+2026-07-24 18:13:08 INFO Request served in 106ms
+2026-07-24 18:13:09 INFO User login success user=Naledi
+2026-07-24 18:13:10 INFO User login success user=Kagiso
+2026-07-24 18:13:10 INFO Health check OK
+2026-07-24 18:13:10 INFO Cache refreshed
+2026-07-24 18:13:10 INFO User login success user=Kagiso
+2026-07-24 18:13:11 ERROR Database connection timeout
+2026-07-24 18:13:12 INFO User login success user=Kagiso
+2026-07-24 18:13:12 INFO User login success user=Lerato
+2026-07-24 18:13:13 INFO Cache refreshed
+2026-07-24 18:13:14 INFO Request served in 375ms
+2026-07-24 18:13:14 INFO User login success user=Kagiso
+2026-07-24 18:13:15 ERROR Null pointer exception in PaymentService
+2026-07-24 18:13:15 INFO Cache refreshed
+2026-07-24 18:13:15 INFO Request served in 183ms
+2026-07-24 18:13:15 INFO Health check OK
+2026-07-24 18:13:15 INFO Request served in 478ms
+2026-07-24 18:13:15 INFO Health check OK
+2026-07-24 18:13:15 INFO Health check OK
+2026-07-24 18:13:16 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:13:17 INFO File uploaded successfully size=71KB
+2026-07-24 18:13:18 INFO Request served in 50ms
+2026-07-24 18:13:18 ERROR Disk write failed
+2026-07-24 18:13:19 INFO Cache refreshed
+2026-07-24 18:13:19 INFO Cache refreshed
+2026-07-24 18:13:19 INFO Health check OK
+2026-07-24 18:13:20 INFO File uploaded successfully size=11KB
+2026-07-24 18:13:21 INFO Health check OK
+2026-07-24 18:13:22 INFO Request served in 71ms
+2026-07-24 18:13:22 INFO Request served in 127ms
+2026-07-24 18:13:23 INFO Cache refreshed
+2026-07-24 18:13:24 INFO Health check OK
+2026-07-24 18:13:25 ERROR Disk write failed
+2026-07-24 18:13:26 INFO Health check OK
+2026-07-24 18:13:26 INFO Health check OK
+2026-07-24 18:13:26 INFO File uploaded successfully size=33KB
+2026-07-24 18:13:27 INFO Cache refreshed
+2026-07-24 18:13:28 ERROR Null pointer exception in PaymentService
+2026-07-24 18:13:28 INFO Request served in 448ms
+2026-07-24 18:13:28 INFO File uploaded successfully size=389KB
+2026-07-24 18:13:29 INFO Cache refreshed
+2026-07-24 18:13:29 INFO Request served in 313ms
+2026-07-24 18:13:30 INFO File uploaded successfully size=401KB
+2026-07-24 18:13:31 INFO User login success user=Kagiso
+2026-07-24 18:13:31 ERROR Database connection timeout
+2026-07-24 18:13:32 INFO Request served in 214ms
+2026-07-24 18:13:33 INFO Cache refreshed
+2026-07-24 18:13:33 INFO User login success user=Kagiso
+2026-07-24 18:13:33 INFO Health check OK
+2026-07-24 18:13:33 INFO Health check OK
+2026-07-24 18:13:34 INFO File uploaded successfully size=450KB
+2026-07-24 18:13:35 INFO File uploaded successfully size=199KB
+2026-07-24 18:13:35 ERROR Null pointer exception in PaymentService
+2026-07-24 18:13:36 INFO User login success user=Kagiso
+2026-07-24 18:13:36 INFO Health check OK
+2026-07-24 18:13:36 INFO Health check OK
+2026-07-24 18:13:37 INFO Request served in 369ms
+2026-07-24 18:13:38 INFO Request served in 421ms
+2026-07-24 18:13:39 INFO Health check OK
+2026-07-24 18:13:40 INFO File uploaded successfully size=312KB
+2026-07-24 18:13:41 INFO File uploaded successfully size=122KB
+2026-07-24 18:13:41 INFO Health check OK
+2026-07-24 18:13:42 INFO Request served in 376ms
+2026-07-24 18:13:43 INFO Health check OK
+2026-07-24 18:13:44 INFO User login success user=Sipho
+2026-07-24 18:13:45 INFO File uploaded successfully size=471KB
+2026-07-24 18:13:46 INFO Request served in 380ms
+2026-07-24 18:13:46 INFO Cache refreshed
+2026-07-24 18:13:47 INFO File uploaded successfully size=479KB
+2026-07-24 18:13:48 INFO Health check OK
+2026-07-24 18:13:49 INFO Health check OK
+2026-07-24 18:13:49 INFO Request served in 428ms
+2026-07-24 18:13:49 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:13:50 INFO File uploaded successfully size=198KB
+2026-07-24 18:13:50 INFO User login success user=Kagiso
+2026-07-24 18:13:51 INFO File uploaded successfully size=5KB
+2026-07-24 18:13:51 INFO User login success user=Sipho
+2026-07-24 18:13:52 INFO Cache refreshed
+2026-07-24 18:13:53 INFO Cache refreshed
+2026-07-24 18:13:53 INFO Request served in 360ms
+2026-07-24 18:13:54 INFO Cache refreshed
+2026-07-24 18:13:54 INFO Health check OK
+2026-07-24 18:13:54 INFO Health check OK
+2026-07-24 18:13:55 INFO Cache refreshed
+2026-07-24 18:13:56 INFO Request served in 186ms
+2026-07-24 18:13:56 INFO Health check OK
+2026-07-24 18:13:56 ERROR Null pointer exception in PaymentService
+2026-07-24 18:13:57 INFO User login success user=Kagiso
+2026-07-24 18:13:58 INFO Cache refreshed
+2026-07-24 18:13:58 INFO Health check OK
+2026-07-24 18:13:58 INFO Request served in 450ms
+2026-07-24 18:13:58 INFO File uploaded successfully size=165KB
+2026-07-24 18:13:59 INFO Request served in 220ms
+2026-07-24 18:13:59 INFO Cache refreshed
+2026-07-24 18:13:59 INFO Request served in 241ms
+2026-07-24 18:14:00 INFO File uploaded successfully size=90KB
+2026-07-24 18:14:00 INFO User login success user=Sipho
+2026-07-24 18:14:00 INFO File uploaded successfully size=225KB
+2026-07-24 18:14:00 INFO Health check OK
+2026-07-24 18:14:00 INFO Cache refreshed
+2026-07-24 18:14:00 INFO User login success user=Sipho
+2026-07-24 18:14:01 INFO Health check OK
+2026-07-24 18:14:02 INFO File uploaded successfully size=88KB
+2026-07-24 18:14:03 INFO Request served in 168ms
+2026-07-24 18:14:03 INFO Cache refreshed
+2026-07-24 18:14:04 INFO Health check OK
+2026-07-24 18:14:05 INFO Health check OK
+2026-07-24 18:14:06 INFO User login success user=Kagiso
+2026-07-24 18:14:07 INFO Request served in 135ms
+2026-07-24 18:14:07 INFO User login success user=Naledi
+2026-07-24 18:14:08 INFO File uploaded successfully size=11KB
+2026-07-24 18:14:09 INFO File uploaded successfully size=54KB
+2026-07-24 18:14:10 INFO File uploaded successfully size=275KB
+2026-07-24 18:14:11 ERROR Database connection timeout
+2026-07-24 18:14:11 INFO Health check OK
+2026-07-24 18:14:12 INFO Health check OK
+2026-07-24 18:14:12 INFO Request served in 481ms
+2026-07-24 18:14:12 INFO Request served in 358ms
+2026-07-24 18:14:12 INFO Cache refreshed
+2026-07-24 18:14:12 INFO Cache refreshed
+2026-07-24 18:14:12 INFO Cache refreshed
+2026-07-24 18:14:12 INFO Request served in 217ms
+2026-07-24 18:14:12 INFO Request served in 326ms
+2026-07-24 18:14:13 INFO User login success user=Tshepo
+2026-07-24 18:14:13 INFO Cache refreshed
+2026-07-24 18:14:13 INFO File uploaded successfully size=229KB
+2026-07-24 18:14:13 INFO Request served in 68ms
+2026-07-24 18:14:13 INFO Health check OK
+2026-07-24 18:14:14 INFO Health check OK
+2026-07-24 18:14:14 INFO Health check OK
+2026-07-24 18:14:14 INFO Cache refreshed
+2026-07-24 18:14:15 INFO Health check OK
+2026-07-24 18:14:15 INFO User login success user=Sipho
+2026-07-24 18:14:16 INFO File uploaded successfully size=262KB
+2026-07-24 18:14:16 INFO File uploaded successfully size=397KB
+2026-07-24 18:14:17 INFO Health check OK
+2026-07-24 18:14:17 INFO Request served in 96ms
+2026-07-24 18:14:17 INFO File uploaded successfully size=286KB
+2026-07-24 18:14:17 INFO Cache refreshed
+2026-07-24 18:14:18 INFO User login success user=Sipho
+2026-07-24 18:14:18 INFO File uploaded successfully size=167KB
+2026-07-24 18:14:19 INFO File uploaded successfully size=256KB
+2026-07-24 18:14:20 INFO File uploaded successfully size=190KB
+2026-07-24 18:14:21 INFO Request served in 383ms
+2026-07-24 18:14:21 INFO Health check OK
+2026-07-24 18:14:22 INFO User login success user=Tshepo
+2026-07-24 18:14:22 INFO Request served in 385ms
+2026-07-24 18:14:22 INFO Cache refreshed
+2026-07-24 18:14:23 INFO Cache refreshed
+2026-07-24 18:14:23 INFO File uploaded successfully size=495KB
+2026-07-24 18:14:24 ERROR Null pointer exception in PaymentService
+2026-07-24 18:14:25 ERROR Database connection timeout
+2026-07-24 18:14:26 INFO User login success user=Naledi
+2026-07-24 18:14:27 INFO Health check OK
+2026-07-24 18:14:28 INFO File uploaded successfully size=1KB
+2026-07-24 18:14:28 INFO User login success user=Kagiso
+2026-07-24 18:14:29 INFO Request served in 26ms
+2026-07-24 18:14:29 INFO Request served in 153ms
+2026-07-24 18:14:30 INFO File uploaded successfully size=465KB
+2026-07-24 18:14:30 INFO File uploaded successfully size=351KB
+2026-07-24 18:14:30 INFO File uploaded successfully size=272KB
+2026-07-24 18:14:31 INFO User login success user=Lerato
+2026-07-24 18:14:32 INFO File uploaded successfully size=437KB
+2026-07-24 18:14:32 INFO Request served in 361ms
+2026-07-24 18:14:32 INFO Request served in 206ms
+2026-07-24 18:14:32 INFO Cache refreshed
+2026-07-24 18:14:32 INFO File uploaded successfully size=209KB
+2026-07-24 18:14:33 INFO Health check OK
+2026-07-24 18:14:33 INFO Health check OK
+2026-07-24 18:14:33 INFO File uploaded successfully size=260KB
+2026-07-24 18:14:33 INFO Health check OK
+2026-07-24 18:14:34 INFO User login success user=Tshepo
+2026-07-24 18:14:34 INFO User login success user=Sipho
+2026-07-24 18:14:35 INFO User login success user=Tshepo
+2026-07-24 18:14:35 INFO User login success user=Sipho
+2026-07-24 18:14:36 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:14:36 INFO Cache refreshed
+2026-07-24 18:14:36 INFO Health check OK
+2026-07-24 18:14:37 INFO File uploaded successfully size=491KB
+2026-07-24 18:14:37 INFO Cache refreshed
+2026-07-24 18:14:38 INFO Health check OK
+2026-07-24 18:14:39 INFO File uploaded successfully size=54KB
+2026-07-24 18:14:40 INFO Health check OK
+2026-07-24 18:14:40 ERROR 503 Service Unavailable
+2026-07-24 18:14:41 INFO User login success user=Tshepo
+2026-07-24 18:14:42 INFO Cache refreshed
+2026-07-24 18:14:42 INFO File uploaded successfully size=437KB
+2026-07-24 18:14:43 INFO Cache refreshed
+2026-07-24 18:14:43 INFO Health check OK
+2026-07-24 18:14:43 INFO Request served in 236ms
+2026-07-24 18:14:44 INFO Cache refreshed
+2026-07-24 18:14:45 INFO Health check OK
+2026-07-24 18:14:45 ERROR Null pointer exception in PaymentService
+2026-07-24 18:14:46 INFO Health check OK
+2026-07-24 18:14:46 INFO Cache refreshed
+2026-07-24 18:14:46 INFO Health check OK
+2026-07-24 18:14:47 INFO File uploaded successfully size=358KB
+2026-07-24 18:14:47 INFO Health check OK
+2026-07-24 18:14:47 INFO User login success user=Lerato
+2026-07-24 18:14:48 INFO File uploaded successfully size=268KB
+2026-07-24 18:14:48 INFO Request served in 63ms
+2026-07-24 18:14:48 INFO File uploaded successfully size=215KB
+2026-07-24 18:14:49 INFO Request served in 414ms
+2026-07-24 18:14:50 INFO Cache refreshed
+2026-07-24 18:14:50 INFO Cache refreshed
+2026-07-24 18:14:51 INFO User login success user=Kagiso
+2026-07-24 18:14:51 INFO User login success user=Lerato
+2026-07-24 18:14:51 INFO File uploaded successfully size=58KB
+2026-07-24 18:14:51 INFO User login success user=Lerato
+2026-07-24 18:14:51 INFO Request served in 116ms
+2026-07-24 18:14:51 INFO Health check OK
+2026-07-24 18:14:52 ERROR Database connection timeout
+2026-07-24 18:14:52 INFO User login success user=Tshepo
+2026-07-24 18:14:53 INFO Cache refreshed
+2026-07-24 18:14:54 INFO Health check OK
+2026-07-24 18:14:54 INFO User login success user=Sipho
+2026-07-24 18:14:55 ERROR Failed login attempt user=Naledi
+2026-07-24 18:14:55 ERROR 503 Service Unavailable
+2026-07-24 18:14:56 ERROR Null pointer exception in PaymentService
+2026-07-24 18:14:57 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:14:57 ERROR 503 Service Unavailable
+2026-07-24 18:14:57 ERROR Null pointer exception in PaymentService
+2026-07-24 18:14:58 ERROR Null pointer exception in PaymentService
+2026-07-24 18:14:59 ERROR Disk write failed
+2026-07-24 18:14:59 ERROR 503 Service Unavailable
+2026-07-24 18:15:00 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:15:01 ERROR Null pointer exception in PaymentService
+2026-07-24 18:15:02 ERROR 503 Service Unavailable
+2026-07-24 18:15:03 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:15:03 ERROR Failed login attempt user=Tshepo
+2026-07-24 18:15:03 ERROR Disk write failed
+2026-07-24 18:15:03 INFO User login success user=Kagiso
+2026-07-24 18:15:04 INFO User login success user=Sipho
+2026-07-24 18:15:05 INFO User login success user=Tshepo
+2026-07-24 18:15:06 INFO Cache refreshed
+2026-07-24 18:15:07 INFO User login success user=Tshepo
+2026-07-24 18:15:07 INFO Request served in 301ms
+2026-07-24 18:15:08 INFO Request served in 323ms
+2026-07-24 18:15:09 INFO Cache refreshed
+2026-07-24 18:15:10 INFO User login success user=Naledi
+2026-07-24 18:15:11 INFO Request served in 492ms
+2026-07-24 18:15:12 INFO Health check OK
+2026-07-24 18:15:12 INFO User login success user=Tshepo
+2026-07-24 18:15:12 INFO User login success user=Lerato
+2026-07-24 18:15:13 INFO File uploaded successfully size=124KB
+2026-07-24 18:15:13 INFO Request served in 145ms
+2026-07-24 18:15:14 INFO Request served in 58ms
+2026-07-24 18:15:15 INFO File uploaded successfully size=128KB
+2026-07-24 18:15:15 INFO Request served in 226ms
+2026-07-24 18:15:15 INFO Cache refreshed
+2026-07-24 18:15:16 INFO Health check OK
+2026-07-24 18:15:17 INFO Health check OK
+2026-07-24 18:15:18 INFO File uploaded successfully size=51KB
+2026-07-24 18:15:19 INFO User login success user=Sipho
+2026-07-24 18:15:19 INFO Request served in 21ms
+2026-07-24 18:15:19 INFO File uploaded successfully size=92KB
+2026-07-24 18:15:20 INFO User login success user=Lerato
+2026-07-24 18:15:20 INFO Request served in 239ms
+2026-07-24 18:15:20 INFO Request served in 427ms
+2026-07-24 18:15:20 INFO Health check OK
+2026-07-24 18:15:21 INFO File uploaded successfully size=56KB
+2026-07-24 18:15:22 INFO Health check OK
+2026-07-24 18:15:22 ERROR Database connection timeout
+2026-07-24 18:15:23 INFO Health check OK
+2026-07-24 18:15:24 INFO User login success user=Lerato
+2026-07-24 18:15:24 INFO Cache refreshed
+2026-07-24 18:15:24 INFO Cache refreshed
+2026-07-24 18:15:24 INFO Cache refreshed
+2026-07-24 18:15:24 INFO Health check OK
+2026-07-24 18:15:25 INFO User login success user=Sipho
+2026-07-24 18:15:25 INFO Health check OK
+2026-07-24 18:15:25 INFO Health check OK
+2026-07-24 18:15:26 INFO Health check OK
+2026-07-24 18:15:27 INFO Cache refreshed
+2026-07-24 18:15:27 INFO User login success user=Naledi
+2026-07-24 18:15:28 INFO File uploaded successfully size=166KB
+2026-07-24 18:15:29 INFO Cache refreshed
+2026-07-24 18:15:29 INFO File uploaded successfully size=365KB
+2026-07-24 18:15:30 INFO Request served in 339ms
+2026-07-24 18:15:30 INFO Health check OK
+2026-07-24 18:15:30 INFO Health check OK
+2026-07-24 18:15:31 INFO Cache refreshed
+2026-07-24 18:15:32 INFO User login success user=Lerato
+2026-07-24 18:15:33 ERROR Failed login attempt user=Kagiso
+2026-07-24 18:15:33 INFO Health check OK
+2026-07-24 18:15:33 INFO User login success user=Tshepo
+2026-07-24 18:15:33 INFO Cache refreshed
+2026-07-24 18:15:34 INFO File uploaded successfully size=481KB
+2026-07-24 18:15:34 INFO User login success user=Tshepo
+2026-07-24 18:15:34 INFO Cache refreshed
+2026-07-24 18:15:34 INFO Health check OK
+2026-07-24 18:15:35 INFO Cache refreshed
+2026-07-24 18:15:36 INFO Health check OK
+2026-07-24 18:15:36 INFO File uploaded successfully size=140KB
+2026-07-24 18:15:36 INFO User login success user=Kagiso
+2026-07-24 18:15:37 INFO Health check OK
+2026-07-24 18:15:38 INFO Request served in 302ms
+2026-07-24 18:15:39 INFO Cache refreshed
+2026-07-24 18:15:39 INFO Request served in 360ms
+2026-07-24 18:15:40 INFO File uploaded successfully size=450KB
+2026-07-24 18:15:40 INFO File uploaded successfully size=420KB
+2026-07-24 18:15:40 INFO Request served in 453ms
+2026-07-24 18:15:40 INFO User login success user=Lerato
+2026-07-24 18:15:40 INFO Health check OK
+2026-07-24 18:15:41 INFO File uploaded successfully size=228KB
+2026-07-24 18:15:41 INFO Cache refreshed
+2026-07-24 18:15:41 INFO User login success user=Lerato
+2026-07-24 18:15:42 INFO Health check OK
+2026-07-24 18:15:42 INFO User login success user=Sipho
+2026-07-24 18:15:42 INFO User login success user=Naledi
+2026-07-24 18:15:43 INFO User login success user=Tshepo
+2026-07-24 18:15:43 INFO User login success user=Naledi
+2026-07-24 18:15:44 INFO File uploaded successfully size=183KB
+2026-07-24 18:15:44 INFO User login success user=Naledi
+2026-07-24 18:15:44 INFO File uploaded successfully size=358KB
+2026-07-24 18:15:44 INFO File uploaded successfully size=486KB
+2026-07-24 18:15:44 INFO Cache refreshed
+2026-07-24 18:15:45 INFO Cache refreshed
+2026-07-24 18:15:45 INFO Health check OK
+2026-07-24 18:15:46 INFO User login success user=Kagiso
+2026-07-24 18:15:47 INFO Request served in 381ms
+2026-07-24 18:15:47 INFO Request served in 251ms
+2026-07-24 18:15:48 INFO Cache refreshed
+2026-07-24 18:15:49 ERROR Null pointer exception in PaymentService
+2026-07-24 18:15:50 INFO Health check OK
+2026-07-24 18:15:51 INFO Request served in 284ms
+2026-07-24 18:15:52 INFO File uploaded successfully size=28KB
+2026-07-24 18:15:53 INFO Request served in 406ms
+2026-07-24 18:15:54 INFO Health check OK
+2026-07-24 18:15:54 INFO Request served in 9ms
+2026-07-24 18:15:54 INFO Health check OK
+2026-07-24 18:15:54 INFO File uploaded successfully size=103KB
+2026-07-24 18:15:55 INFO User login success user=Tshepo
+2026-07-24 18:15:56 INFO Request served in 11ms
+2026-07-24 18:15:56 INFO User login success user=Lerato
+2026-07-24 18:15:57 INFO Health check OK
+2026-07-24 18:15:58 INFO User login success user=Sipho
+2026-07-24 18:15:59 INFO Request served in 390ms
+2026-07-24 18:16:00 INFO User login success user=Kagiso
+2026-07-24 18:16:01 INFO File uploaded successfully size=256KB
+2026-07-24 18:16:01 INFO Cache refreshed
+2026-07-24 18:16:01 INFO Cache refreshed
+2026-07-24 18:16:02 INFO User login success user=Naledi
+2026-07-24 18:16:02 INFO File uploaded successfully size=46KB
+2026-07-24 18:16:03 INFO Cache refreshed
+2026-07-24 18:16:03 INFO Health check OK
+2026-07-24 18:16:03 INFO File uploaded successfully size=63KB
+2026-07-24 18:16:04 INFO Health check OK
+2026-07-24 18:16:05 INFO Cache refreshed
+2026-07-24 18:16:06 INFO Request served in 159ms
+2026-07-24 18:16:06 INFO File uploaded successfully size=381KB
+2026-07-24 18:16:07 INFO File uploaded successfully size=204KB
+2026-07-24 18:16:07 INFO User login success user=Tshepo
+2026-07-24 18:16:08 INFO Health check OK
+2026-07-24 18:16:09 INFO File uploaded successfully size=56KB
+2026-07-24 18:16:10 INFO File uploaded successfully size=153KB
+2026-07-24 18:16:11 INFO Cache refreshed
+2026-07-24 18:16:12 INFO File uploaded successfully size=356KB
+2026-07-24 18:16:12 INFO Request served in 345ms
+2026-07-24 18:16:12 INFO File uploaded successfully size=439KB
+2026-07-24 18:16:13 INFO Cache refreshed
+2026-07-24 18:16:14 INFO File uploaded successfully size=236KB
+2026-07-24 18:16:14 INFO Request served in 104ms
+2026-07-24 18:16:15 INFO User login success user=Naledi
+2026-07-24 18:16:16 INFO Health check OK
+2026-07-24 18:16:17 INFO File uploaded successfully size=317KB
+2026-07-24 18:16:17 ERROR Database connection timeout
+2026-07-24 18:16:18 INFO File uploaded successfully size=202KB
+2026-07-24 18:16:19 INFO User login success user=Lerato
+2026-07-24 18:16:19 INFO Request served in 499ms
+2026-07-24 18:16:20 INFO Request served in 289ms
+2026-07-24 18:16:21 ERROR 503 Service Unavailable
+2026-07-24 18:16:22 INFO Health check OK
+2026-07-24 18:16:23 INFO Health check OK
+2026-07-24 18:16:24 INFO File uploaded successfully size=425KB
+2026-07-24 18:16:24 INFO Request served in 425ms
+2026-07-24 18:16:25 INFO User login success user=Naledi
+2026-07-24 18:16:26 INFO Cache refreshed
+2026-07-24 18:16:27 INFO Cache refreshed
+2026-07-24 18:16:28 ERROR Disk write failed
+2026-07-24 18:16:28 INFO User login success user=Kagiso
+2026-07-24 18:16:28 INFO Request served in 157ms
+2026-07-24 18:16:28 INFO Request served in 5ms
+2026-07-24 18:16:29 INFO Request served in 265ms
+2026-07-24 18:16:30 INFO Health check OK
+2026-07-24 18:16:31 INFO Cache refreshed
+2026-07-24 18:16:31 INFO User login success user=Lerato
+2026-07-24 18:16:31 INFO File uploaded successfully size=351KB
+2026-07-24 18:16:32 INFO Cache refreshed
+2026-07-24 18:16:32 INFO Request served in 301ms
+2026-07-24 18:16:32 INFO User login success user=Tshepo
+2026-07-24 18:16:32 INFO Request served in 38ms
+2026-07-24 18:16:33 INFO Request served in 69ms
+2026-07-24 18:16:34 INFO Health check OK
+2026-07-24 18:16:34 INFO Health check OK
+2026-07-24 18:16:35 INFO Request served in 378ms
+2026-07-24 18:16:35 INFO User login success user=Tshepo
+2026-07-24 18:16:35 INFO File uploaded successfully size=116KB
+2026-07-24 18:16:35 INFO Request served in 254ms
+2026-07-24 18:16:36 INFO File uploaded successfully size=266KB
+2026-07-24 18:16:36 INFO Request served in 339ms
+2026-07-24 18:16:37 INFO Request served in 10ms
+2026-07-24 18:16:37 INFO Health check OK
+2026-07-24 18:16:37 INFO File uploaded successfully size=69KB
+2026-07-24 18:16:37 INFO Request served in 220ms
+2026-07-24 18:16:38 INFO File uploaded successfully size=210KB
+2026-07-24 18:16:38 INFO File uploaded successfully size=51KB
+2026-07-24 18:16:38 INFO Health check OK
+2026-07-24 18:16:38 INFO Cache refreshed
+2026-07-24 18:16:39 INFO File uploaded successfully size=247KB
+2026-07-24 18:16:39 INFO User login success user=Kagiso
+2026-07-24 18:16:39 INFO Cache refreshed
+2026-07-24 18:16:39 INFO Health check OK
+2026-07-24 18:16:39 INFO User login success user=Sipho
+2026-07-24 18:16:40 INFO File uploaded successfully size=472KB
+2026-07-24 18:16:40 INFO File uploaded successfully size=173KB
