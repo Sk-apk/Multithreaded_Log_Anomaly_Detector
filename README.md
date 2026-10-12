@@ -3,37 +3,32 @@
 
 ## Project Overview
 
-A Java-based log monitoring system built to demonstrate concurrent
-programming concepts — not just reading and writing files, but handling
-a continuous, high-volume stream of data the way a real backend service
+A Java based log monitoring system built to demonstrate concurrent programming concepts not just reading and writing files, but handling a continuous, high-volume stream of data the way a real backend service
 would.
 
 The project was built in stages, each one proving a specific concept
 before adding complexity on top of it.
 
-## Step 1 — Single-Threaded Baseline (LogGenerator + LogAnalyzer)
+## Step 1: Single-Threaded Baseline (LogGenerator + LogAnalyzer)
 
-`LogGenerator.java` creates a fake log file (`sample.log`) with realistic
+LogGenerator.java creates a fake log file (sample.log) with realistic
 INFO and ERROR entries, including deliberate "error bursts" to simulate
 incidents like a database outage.
 
-`LogAnalyzer.java` reads that file top to bottom, counts ERROR entries
+LogAnalyzer.java reads that file top to bottom, counts ERROR entries
 per minute, and flags any minute with 10 or more errors as a possible
 incident.
 
 This step proved the core detection logic works correctly before any
-concurrency was introduced — processed 2,000 lines in 47ms and correctly
+concurrency was introduced processing 2,000 lines in 47ms and correctly
 identified every injected error burst.
 
 ## Step 2 — Simulating a Live Log Stream (LiveLogSimulator)
 
-Real servers don't produce a finished file sitting on disk — logs arrive
-continuously and unpredictably. `LiveLogSimulator.java` simulates this
-with a producer thread that generates log lines forever, at a variable
+Real servers don't produce a finished file sitting on disk, logs arrive continuously and unpredictably. LiveLogSimulator.java simulates this with a producer thread that generates log lines forever, at a variable
 pace, with sudden bursts of traffic mixed in.
 
-A `BlockingQueue` sits between the producer and whatever is consuming
-the logs, acting as a thread-safe buffer.
+A BlockingQueue sits between the producer and whatever is consuming the logs, acting as a thread-safe buffer.
 
 ## Step 3 — Proving the Bottleneck, Then Fixing It
 
