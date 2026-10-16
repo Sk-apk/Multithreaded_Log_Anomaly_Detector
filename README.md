@@ -34,18 +34,12 @@ A BlockingQueue sits between the producer and whatever is consuming the logs, ac
 
 **Single-threaded consumer:** The first version used one thread to pull
 lines off the queue and process them one at a time. Under load, the
-backlog climbed continuously and never recovered — 0 to over 5,000
-queued lines within seconds, demonstrating a hard throughput ceiling
-that no amount of optimization could fix within a single thread.
+backlog climbed continuously and never recovered producing 0 to over 5,000 queued lines within seconds, demonstrating a hard throughput ceiling that no amount of optimization could fix within a single thread.
 
 **Multithreaded consumer:** Replaced the single consumer with a pool of
-4 worker threads using `ExecutorService`, all pulling from the same
-queue concurrently. Under identical load, the backlog now spikes during
-bursts but consistently recovers to zero — proving that distributing
-work across threads raises the system's overall throughput ceiling.
+4 worker threads using `ExecutorService', all pulling from the same queue concurrently. Under identical load, the backlog now spikes during bursts but consistently recovers to zero, proving that distributing work across threads raises the system's overall throughput ceiling.
 
-`AtomicInteger` was used for the shared processed-line counter to keep
-it safe across multiple threads updating it simultaneously.
+`AtomicInteger` was used for the shared processed-line counter to keep it safe across multiple threads updating it simultaneously.
 
 ## Concepts Demonstrated
 
